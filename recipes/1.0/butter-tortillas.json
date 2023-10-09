@@ -1,0 +1,41 @@
+{
+  "recipe_id": "12345",
+  "schema_version": "1.0",
+  "title": "Homemade Butter Tortillas",
+  "creator": {
+    "user_id": "user123",
+    "username": "johndoe",
+    "email": "johndoe@example.com"
+  },
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "quantity": "3 cups"
+    },
+    {
+      "name": "Warm water",
+      "quantity": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "quantity": "1/2 cup"
+    },
+    {
+      "name": "Baking powder",
+      "quantity": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "quantity": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine the dry ingredients in a large mixing bowl.",
+    "Melt the butter in warm water and mix it into the dry ingredients until a dough is formed.",
+    "Cover the dough and let it sit for 30 minutes.",
+    "Divide the dough into approximately 12 equal-sized balls.",
+    "Use flour and a rolling pin to roll each dough ball into a circle.",
+    "Cook each tortilla on a pan or comal over medium heat for about 2 minutes per side or until they are brown and bubbly."
+  ],
+  "yield": "12 tortillas"
+}
