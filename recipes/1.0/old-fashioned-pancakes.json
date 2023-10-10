@@ -1,6 +1,7 @@
 {
   "recipe_id": "67890",
   "title": "Old-Fashioned Pancakes",
+  "schema_version": "1.0",
   "creator": {
     "user_id": "user456",
     "username": "janedoe",
