@@ -1,0 +1,47 @@
+{
+  "recipe_id": "67890",
+  "title": "Old-Fashioned Pancakes",
+  "creator": {
+    "user_id": "user456",
+    "username": "janedoe",
+    "email": "janedoe@example.com"
+  },
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "quantity": "1 1/2 cups"
+    },
+    {
+      "name": "White sugar",
+      "quantity": "1 tablespoon"
+    },
+    {
+      "name": "Baking powder",
+      "quantity": "3 1/2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "quantity": "1"
+    },
+    {
+      "name": "Milk",
+      "quantity": "1 1/4 cups"
+    },
+    {
+      "name": "Butter",
+      "quantity": "3 tablespoons, melted"
+    },
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, sugar, baking powder, and salt.",
+    "In a separate bowl, beat the egg and then stir in the milk and melted butter. Make sure the milk is warm! Otherwise the butter will curdle.",
+    "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+    "Cook in a ceramic non-stick pan, with no oil/spray, set over medium/medium-low heat. About 400 degrees F works.",
+    "Add some water to the batter if it thickens after standing."
+  ],
+  "yield": "10 pancakes"
+}
