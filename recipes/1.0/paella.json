@@ -1,0 +1,70 @@
+{
+  "recipe_id": "1343445",
+  "title": "Vegetarian Paella",
+  "schema_version": "1.0",
+  "creator": {
+    "user_id": "abcd1234",
+    "username": "test",
+    "email": "test"
+  },
+  "ingredients": [
+    {
+      "name": "Short-grain paella rice",
+      "quantity": "1/2 cup"
+    },
+    {
+      "name": "Oyster mushrooms",
+      "quantity": "1/2 cup chopped"
+    },
+    {
+      "name": "Vegetable broth",
+      "quantity": "1 1/2 cups"
+    },
+    {
+      "name": "Saffron threads",
+      "quantity": "A pinch"
+    },
+    {
+      "name": "Spanish smoked paprika",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "Small onion",
+      "quantity": "1/2"
+    },
+    {
+      "name": "Medium tomato",
+      "quantity": "1"
+    },
+    {
+      "name": "Garlic",
+      "quantity": "4 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "quantity": "4 tbsp"
+    },
+    {
+      "name": "Lemon",
+      "quantity": "1, for garnish"
+    },
+    {
+      "name": "Fresh parsley",
+      "quantity": "A handful, chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Put broth on low heat in saucepan. Add saffron and paprika. Salt to taste.",
+    "In pan, sear oyster mushrooms in 2 tbsp olive oil (do not fully cook). Remove.",
+    "Add onion, peppers, parsley, tomato and garlic to pan.",
+    "Cook for 5 minutes on medium high.",
+    "Add rice and remaining oil. Cook 3 minutes, stirring.",
+    "Pour broth from saucepan into paella pan. Bring to a boil.",
+    "After this point, do not stir. Lower heat to a simmer for 10 minutes.",
+    "Nestle browned mushrooms evenly in rice.",
+    "Do not stir. Simmer another 10 minutes.",
+    "When rice sizzles, remove pan from heat and cover with a cloth for 10 minutes before serving.",
+    "Serve with lemon wedges and alioli sauce."
+  ],
+  "yield": "2 servings"
+}
