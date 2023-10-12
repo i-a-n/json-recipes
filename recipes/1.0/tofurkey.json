@@ -1,0 +1,72 @@
+{
+  "recipe_id": "67890",
+  "title": "Thanksgiving Tofurkey",
+  "schema_version": "1.0",
+  "creator": {
+    "user_id": "efgh5678",
+    "username": "asdf",
+    "email": "asdf@example.com"
+  },
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "quantity": "5 blocks (14 oz each), pressed and drained"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "quantity": "1/3 cup"
+    },
+    {
+      "name": "Red wine",
+      "quantity": "1/2 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "quantity": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "Onion powder",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "Dried sage",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "Dried thyme",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "Dried rosemary",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegetarian 'chicken' powder",
+      "quantity": "to taste"
+    },
+    {
+      "name": "Cheesecloth",
+      "quantity": "1"
+    }
+  ],
+  "instructions": [
+    "Use a food processor to blend the tofu into a paste. When all the tofu is blended, transfer into a large bowl and finely chop about half the herbs. Transfer the herbs, some salt & pepper, and all of the chicken powder (all of this is to taste) into the tofu mixture and combine evenly.",
+    "Wrap in cheesecloth and leave in a collander to drain, with a weight on top, overnight.",
+    "The next day, Preheat the oven to 350°F. Plop the tofu onto a turkey-basting pan and shape the tofu mixture into a turkey-shape. Use a spatula and dip it in water to really help sculpt that thing.",
+    "Combine balsamic, red wine, dijon, and the rest of your herbs and spices into a marinade. Brush/pour maybe half of it over the tofurkey, then place it in the oven.",
+    "Add the remaining marindate, basting occassionally, for the next two hours, or longer. If the tofurkey browns too quickly, cover with aluminum foil to ensure it's thoroughly heated through."
+  ],
+  "yield": "12 servings"
+}
