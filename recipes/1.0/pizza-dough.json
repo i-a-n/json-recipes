@@ -1,0 +1,41 @@
+{
+  "recipe_id": "1234332235",
+  "schema_version": "1.0",
+  "title": "Pizza Dough",
+  "creator": {
+    "user_id": "user123",
+    "username": "johndoe",
+    "email": "johndoe@example.com"
+  },
+  "ingredients": [
+    {
+      "name": "Bread flour",
+      "quantity": "4 cups"
+    },
+    {
+      "name": "Warm water (~118 F)",
+      "quantity": "1 3/4 cup"
+    },
+    {
+      "name": "Dry-active yeast",
+      "quantity": "1 package (1/4 oz), or about 2 1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "quantity": "3 tbsp"
+    },
+    {
+      "name": "Salt",
+      "quantity": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "In the bowl of a stand mixer, or in a large mixing bowl, whisk together the water with the sugar and 2 teaspoons flour. Whisk in the yeast. Set aside until the yeast begins to foam or bubble, about 10 minutes. (If the yeast fails to bubble, discard the mixture and start over.) Meanwhile, whisk the salt into the remaining flour until evenly combined.",
+    "When the yeast is bubbly, beat in the oil. Begin adding the flour mixture, a cup at a time, gently beating until combined. Continue incorporating the flour with your hands, gently kneading it into the dough while still in the bowl. When all the flour is added, turn the dough out onto a well-floured board.",
+    "Knead the dough just until it comes together in a smooth, supple mass, 7 to 10 minutes. Flour the dough and board as needed to enable kneading, but do not over-flour the dough or it will be tough; the dough should be moist and somewhat sticky throughout (the high moisture content will keep the crust from drying out when baked).",
+    "Clean and lightly oil the mixing bowl. Place the dough back in the bowl, lightly oil the top of the dough, then cover the bowl with plastic wrap until doubled in size, about 1 hour.  If possible, cover and refrigerate the dough overnight (this slows the proofing process to allow the flavors to develop); remove the dough two hours before baking, punch it down and set it aside to give it time to warm sufficiently.",
+    "When the dough is risen, punch it down and divide it into 4 equal pieces. (If not using all of the dough, place leftover pieces each in a sealable freezer bag and freeze; thaw before using). Roll each piece into a ball and place them on a greased baking sheet. Lightly oil the top of each ball and loosely cover with plastic wrap. Set aside until almost doubled in size, 1 to 2 hours.",
+    "Lightly flour each ball of dough to keep it from sticking. Gently stretch each ball into a flat disk, working from the center of the dough outward, then stretching the outer crust to widen the disk. If the dough springs back, set it aside to rest on a floured surface and move to the next ball. Continue to stretch until each disk is 10 to 12 inches in diameter."
+  ],
+  "yield": "4 pizzas"
+}
