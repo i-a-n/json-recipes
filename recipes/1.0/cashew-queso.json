@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "007",
+  "title": "Cashew Queso",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "hot water",
+      "quantity": "1 cup"
+    },
+    {
+      "name": "raw cashews",
+      "quantity": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "quantity": "1 clove"
+    },
+    {
+      "name": "nutritional yeast",
+      "quantity": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "salsa",
+      "quantity": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Add all ingredients to a blender (starting with the lesser amount of water) and blend until creamy, adding more water as needed to blend until creamy and smooth. We recommend a small blender (we prefer the NutriBullet), or a high-speed blender. Add just enough water to achieve a creamy, pourable queso. If it gets too thin, thicken with additional raw cashews.",
+    "Taste and adjust flavor as needed, adding more nutritional yeast for cheesiness, salt to taste, cumin for smokiness, chili powder or harissa for heat, or garlic for zing. It should be quite flavorful, so don’t be shy.",
+    "Serve with chips or add to things like tacos, nachos, burritos, and more! Garnish with additional salsa for serving (optional).",
+    "Store leftovers covered in the refrigerator up to 5-7 days, or in the freezer up to 1 month. To thaw from frozen, set in refrigerator for 24-48 hours. Reheat in microwave or in a small saucepan over medium-low heat. Add more water as needed if it thickens when reheating."
+  ],
+  "yield": "6 servings"
+}
