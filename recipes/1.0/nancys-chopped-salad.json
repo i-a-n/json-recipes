@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "006",
+  "title": "Nancy's Chopped Salad",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "quantity": "1 (15-ounce) can or 1 3/4 cups cooked",
+      "notes": "drained"
+    },
+    {
+      "name": "small red onion",
+      "quantity": "1",
+      "preparation": "peeled and sliced into paper-thin rings"
+    },
+    {
+      "name": "provolone",
+      "quantity": "1/2 pound",
+      "notes": "see Note about varieties, sliced 1/8-inch thick then cut into 1/4-inch ribbons"
+    },
+    {
+      "name": "salami",
+      "quantity": "1/2 pound",
+      "preparation": "peeled, sliced 1/8-inch thick then cut into 1/4-inch ribbons"
+    },
+    {
+      "name": "pickled pepperoncini",
+      "quantity": "4 medium or 8 small",
+      "preparation": "sliced into rings"
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "3/4 pound"
+    },
+    {
+      "name": "sea salt",
+      "quantity": "for seasoning"
+    },
+    {
+      "name": "iceberg lettuce",
+      "quantity": "1 head",
+      "notes": "see Note about size, halved, cored, and cut in 1/2-inch ribbons"
+    },
+    {
+      "name": "radicchio",
+      "quantity": "1 head",
+      "preparation": "halved, cored and cut in 1/4-inch ribbons"
+    },
+    {
+      "name": "dried oregano",
+      "quantity": "2 tablespoons",
+      "notes": "for garnish (optional)"
+    },
+    {
+      "name": "garlic",
+      "quantity": "4 cloves"
+    },
+    {
+      "name": "dried oregano",
+      "quantity": "1 to 2 tablespoons",
+      "notes": "Nancy recommends 2; adjust according to preference"
+    },
+    {
+      "name": "kosher salt",
+      "quantity": "2 teaspoons"
+    },
+    {
+      "name": "ground black pepper",
+      "quantity": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "2 tablespoons",
+      "notes": "or juice of 1 lemon"
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1/4 cup",
+      "notes": "ideally extra-virgin"
+    }
+  ],
+  "instructions": [
+    "Roughly chop the garlic and then add the oregano, salt, and up to 1/2 teaspoon ground pepper. Chop the mixture together and use the side of a knife or a mortar and pestle to make a grainy herb paste. Transfer the paste to a large salad bowl, and add the lemon juice and vinegar. Mix with a fork allowing the salt to dissolve, then add the oil and whisk with a fork until well combined. The dressing should be thick with garlic and oregano. If you’re using a small head of iceberg, transfer 1/3 the dressing into a small bowl to be used only if needed. For a larger head of iceberg, you’ll want it all.",
+    "Gently fold the chickpeas, red onion, provolone, salami, pepperoncini (including seeds and juice) into the dressing, one at a time. Halve the tomatoes lengthwise and season with 1 1/2 teaspoons sea salt. Set aside until ready to serve.",
+    "When ready to serve, gently add the tomatoes, lettuce, and radicchio to the salad bowl, along with a couple of generous pinches of oregano, and toss to combine with the dressing. Adjust seasonings to taste, adding any reserved dressing if needed. Serve immediately."
+  ],
+  "yield": "6 salad servings"
+}
