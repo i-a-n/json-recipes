@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "005",
+  "title": "Instant Pot Black Beans",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "dried black beans",
+      "quantity": "1 pound",
+      "notes": "about 2 cups, no need to soak"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "quantity": "1 1/2 teaspoons"
+    },
+    {
+      "name": "small yellow onion",
+      "quantity": "1",
+      "preparation": "diced"
+    },
+    {
+      "name": "green bell pepper",
+      "quantity": "1",
+      "preparation": "cored, seeded, and diced"
+    },
+    {
+      "name": "kosher salt",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "quantity": "2"
+    },
+    {
+      "name": "garlic",
+      "quantity": "3 cloves",
+      "preparation": "minced",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "water",
+      "quantity": "3 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse and drain the beans and pick out any stones or bad, cracked-looking beans. Set aside.",
+    "Set the Instant Pot to SAUTE and add the olive oil. Once the oil is hot and shimmering, add the onion, bell pepper, and salt. Cook until the vegetables soften, about 4 to 6 minutes.",
+    "Stir in the cumin, oregano, bay leaves, and garlic, and cook until the spices are very fragrant, about 30 seconds.",
+    "Add the water and beans and stir. Cover and seal the Instant Pot. Cook on HIGH pressure for 35 minutes.",
+    "When the timer goes off, allow the steam to release naturally for 20 additional minutes. Remove the lid. Remove the bay leaves and discard them.",
+    "Enjoy warm or let cool completely and store in individual containers."
+  ],
+  "yield": "6 cups"
+}
