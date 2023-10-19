@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "008", // You can replace this with a unique identifier
+  "title": "Butternut Squash Soup",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "butternut squash, peeled and cubed",
+      "quantity": "4 pounds"
+    },
+    {
+      "name": "small yellow onion, diced",
+      "quantity": "1"
+    },
+    {
+      "name": "Honeycrisp apples, peeled and diced",
+      "quantity": "2 apples"
+    },
+    {
+      "name": "curry powder",
+      "quantity": "1 tbs"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "quantity": "4 cloves"
+    },
+    {
+      "name": "cayenne pepper",
+      "quantity": "1/4 tsp"
+    },
+    {
+      "name": "kosher salt",
+      "quantity": "2 tsp"
+    },
+    {
+      "name": "vegetable stock",
+      "quantity": "4 cups"
+    },
+    {
+      "name": "full-fat coconut milk",
+      "quantity": "1 can (13.5 oz)"
+    }
+  ],
+  "instructions": [
+    "In the slow cooker pot, combine the squash, apple, onion, garlic, stock, curry powder, salt, and cayenne pepper. Cover and cook on high for 4 hours.",
+    "Using an immersion blender, blend the soup directly in the pot until completely smooth, about 2 minutes.",
+    "Add the coconut milk and stir to combine. To serve, ladle into a bowl and top with a drizzle of coconut milk and freshly cracked pepper."
+  ],
+  "yield": "8 servings"
+}
