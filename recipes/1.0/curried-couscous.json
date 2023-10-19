@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "008",
+  "title": "Curried Couscous",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "Israeli couscous or orzo",
+      "quantity": "1 box (8oz)"
+    },
+    {
+      "name": "cauliflower",
+      "quantity": "1 head, florets broken into pieces"
+    },
+    {
+      "name": "curry powder",
+      "quantity": "1 tablespoon"
+    },
+    {
+      "name": "turmeric",
+      "quantity": "1 tablespoon"
+    },
+    {
+      "name": "ground cumin",
+      "quantity": "1 tablespoon"
+    },
+    {
+      "name": "ground coriander",
+      "quantity": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "quantity": "1/2 tablespoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "3 tablespoons"
+    },
+    {
+      "name": "oil",
+      "quantity": "3 tablespoons"
+    },
+    {
+      "name": "small carrots",
+      "quantity": "2, peeled, small dice"
+    },
+    {
+      "name": "vegenaise (or mayonnaise)",
+      "quantity": "1 cup"
+    },
+    {
+      "name": "cilantro",
+      "quantity": "1/2 bunch, chopped"
+    },
+    {
+      "name": "lime",
+      "quantity": "1/2, juiced"
+    },
+    {
+      "name": "cayenne, sugar, and salt",
+      "quantity": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook off couscous or orzo according to the instructions on the box. Rinse in cold water, drain well, put in a bowl and set aside.",
+    "Heat oven to 450°F. Put cauliflower florets in a bowl and toss with spices, salt, brown sugar, and oil. Spread out on a line sheet tray and roast in the oven for about 10 minutes until cauliflower is browned around the edges but still crunchy. Remove just the cauliflower and put in the bowl with the pasta.",
+    "Put diced carrots on the same sheet tray and, using spatula, toss the carrots with the leftover spices and oil. Roast carrots until brown around the edges but still crunchy, about 8 minutes. (If you find that the spices and oil got too burnt when roasting the cauliflower, just toss the carrots in the same proportion of new spices, salt, sugar, and oil.) Add to the pasta.",
+    "Mix in vegenaise, cilantro, lime juice to the pasta, cauliflower and carrot mixture. Adjust seasoning to desired consistency, flavor, and spice level."
+  ],
+  "yield": "6 servings"
+}
