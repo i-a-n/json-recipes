@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "012",
+  "title": "Spinach Artichoke Lasagna",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "no-boil lasagna noodles",
+      "quantity": "9"
+    },
+    {
+      "name": "shredded fontina cheese or low-moisture, part-skim mozzarella",
+      "quantity": "2 cups (5 ounces)"
+    },
+    {
+      "name": "low fat cottage cheese",
+      "quantity": "2 cups (16 ounces)"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tablespoons"
+    },
+    {
+      "name": "red onion",
+      "quantity": "1 cup (chopped, about 1 smallish red onion)"
+    },
+    {
+      "name": "salt",
+      "quantity": "¼ teaspoon"
+    },
+    {
+      "name": "garlic",
+      "quantity": "4 cloves (pressed or minced)"
+    },
+    {
+      "name": "jarred or defrosted frozen artichokes",
+      "quantity": "1 cup (drained, quartered if necessary)"
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "12 ounces"
+    },
+    {
+      "name": "black pepper",
+      "quantity": "to taste"
+    },
+    {
+      "name": "marinara sauce",
+      "quantity": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425 degrees Fahrenheit. Pour half of the cottage cheese (1 cup) into the processor and blend it until smooth, about 1 minute. Transfer the mixture to large mixing bowl. No need to rinse out the bowl of the food processor this time; just put it back onto the machine because you’ll need it later.",
+    "Warm 2 tablespoons olive oil in a large skillet over medium heat. Once the oil is shimmering, add the chopped onion and ¼ teaspoon salt. Cook, stirring often, until the onion is tender and translucent, about 4 to 5 minutes. Add the garlic and cook, stirring constantly, until fragrant, about 30 seconds.",
+    "Add the artichoke to the skillet, then add a few large handfuls of spinach. Cook, stirring and tossing frequently, until the spinach has wilted. Repeat with remaining spinach. Continue cooking for about 12 minutes, stirring frequently, until the spinach has dramatically reduced in volume and very little moisture remains in the bottom of the pan.",
+    "Transfer the spinach artichoke mixture to the bowl of the food processor and pulse until the contents are finely chopped (but not puréed!), about 12 to 15 times. Transfer the mixture to the bowl of whipped cottage cheese. Top with remaining cottage cheese and mix well. Season to taste with salt and pepper. Now it’s lasagna assembly time!",
+    "Spread ½ cup marinara sauce evenly over the bottom of an 8-by-8 or 9-by-9 inch square baker. Layer three lasagna noodles on top, overlapping their edges as necessary. Spread half of the spinach mixture evenly over the noodles. Top with ½ cup marinara sauce, then sprinkle ½ cup shredded cheese on top.",
+    "Top with three more noodles, followed by the remaining spinach mixture. Sprinkle ½ cup shredded cheese on top. (We’re skipping the sauce in this layer.) Top with three more noodles, then spread the remaining marinara sauce over the top so the noodles are evenly covered. Sprinkle evenly with 1 cup shredded cheese.",
+    "Wrap the lasagna with a layer of parchment paper over the top (or cover tightly with aluminum foil, but don’t let the foil touch the cheese). Bake, covered, for 18 minutes, then remove the cover, rotate the pan by 180 degrees and continue cooking for about 12 more minutes, until the top is turning spotty brown.",
+    "Remove from oven and let the lasagna cool for 15 minutes before sprinkling with chopped basil and slicing."
+  ],
+  "yield": "8 servings"
+}
