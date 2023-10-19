@@ -13,6 +13,7 @@ interface Creator {
 }
 
 interface Recipe {
+  schema_version: string;
   recipe_id: string;
   title: string;
   creator: Creator;
