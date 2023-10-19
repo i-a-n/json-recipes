@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "009",
+  "title": "Candied Walnuts",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "packed brown sugar",
+      "quantity": "1/4 cup"
+    },
+    {
+      "name": "fine sea salt",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "ground cayenne",
+      "quantity": "1/4 teaspoon"
+    },
+    {
+      "name": "egg white",
+      "quantity": "1"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "raw walnut halves",
+      "quantity": "4 cups (12 ounces)"
+    }
+  ],
+  "instructions": [
+    "Heat oven to 300°F. Line a large baking sheet with parchment paper; set aside.",
+    "In a small mixing bowl, whisk together the brown sugar, sea salt, cinnamon, and cayenne until combined.",
+    "In a large mixing bowl, whisk together egg white and vanilla until combined. Add the walnuts and toss until they are evenly coated with the egg white mixture. Add the brown sugar mixture and toss until the walnuts are evenly coated.",
+    "Spread the walnuts out in an even layer on the baking sheet. Bake for 20 minutes. Remove baking sheet from the oven, and give the walnuts a brief stir. Return to the oven and bake for 5 more minutes. Remove and transfer to a wire rack to cool for 10 minutes."
+  ],
+  "yield": "4 cups"
+}
