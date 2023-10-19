@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "001",
+  "title": "Key-Lime Pie",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "graham cracker crumbs",
+      "quantity": "1½ cups"
+    },
+    {
+      "name": "granulated sugar",
+      "quantity": "2 tablespoons"
+    },
+    {
+      "name": "kosher salt",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter, melted and cooled",
+      "quantity": "4 tablespoons"
+    },
+    {
+      "name": "medium limes",
+      "quantity": "6"
+    },
+    {
+      "name": "sweetened condensed milk (14 ounces)",
+      "quantity": "1 can"
+    },
+    {
+      "name": "large egg yolks",
+      "quantity": "4"
+    },
+    {
+      "name": "cold heavy whipping cream",
+      "quantity": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "quantity": "¼ cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 325 degrees. Lightly coat a 9-inch pie plate (not deep-dish) with nonstick cooking spray.",
+    "Make the crust: Combine the graham cracker crumbs, sugar, salt, and melted butter in a large bowl and stir until moist crumbs form. Transfer to the prepared pie plate and press evenly into the bottom and up the sides of the plate (but not over the rim).",
+    "Bake the crust until lightly browned, about 10 minutes. Transfer to a wire rack to cool completely. Leave the oven on.",
+    "Make the filling: Finely grate 1 tablespoon zest from the limes into a large bowl, then halve the limes and squeeze ½ cup juice. (You may not need all 6 limes.) Add the condensed milk and egg yolks and whisk until all the egg yolks have been incorporated and the zest is speckled throughout the mixture. Pour into the cooled crust.",
+    "Bake until the filling is set around the edges and the center wobbles slightly when touched, about 15 minutes. Transfer to a wire rack and let cool completely, at least 2 hours.",
+    "In a large bowl, whisk the heavy cream and sour cream with an electric mixer fitted with the whisk attachment, or by hand, until soft peaks form; do not overbeat. Pile the cream on top of the pie and swirl and swoosh with a spoon or rubber spatula. Refrigerate the pie for at least 3 hours before serving."
+  ],
+  "yield": "1 pie (9-inch)"
+}
