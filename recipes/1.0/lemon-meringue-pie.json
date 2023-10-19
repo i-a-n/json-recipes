@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "002",
+  "title": "Lemon Meringue Pie",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "unbleached all-purpose flour",
+      "quantity": "2 cups"
+    },
+    {
+      "name": "salt",
+      "quantity": "⅜ teaspoon"
+    },
+    {
+      "name": "sugar",
+      "quantity": "⅛ teaspoon"
+    },
+    {
+      "name": "salted butter, cut in several pieces",
+      "quantity": "5 tablespoons"
+    },
+    {
+      "name": "unsalted butter, cut in several pieces",
+      "quantity": "6 ½ tablespoons"
+    },
+    {
+      "name": "solid vegetable shortening",
+      "quantity": "3 tablespoons"
+    },
+    {
+      "name": "ice water",
+      "quantity": "3 tablespoons (a bit more or less may be needed)"
+    },
+    {
+      "name": "Meyer lemons or other large lemons",
+      "quantity": "2"
+    },
+    {
+      "name": "eggs",
+      "quantity": "2"
+    },
+    {
+      "name": "egg yolks",
+      "quantity": "3"
+    },
+    {
+      "name": "sugar",
+      "quantity": "6 tablespoons"
+    },
+    {
+      "name": "salted butter, cut in 3 pieces",
+      "quantity": "3 tablespoons"
+    },
+    {
+      "name": "unsalted butter, cut in 3 pieces",
+      "quantity": "3 tablespoons"
+    },
+    {
+      "name": "egg whites, at warm room temperature",
+      "quantity": "3"
+    },
+    {
+      "name": "cream of tartar",
+      "quantity": "¼ teaspoon"
+    },
+    {
+      "name": "superfine sugar",
+      "quantity": "6 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "½ teaspoon"
+    }
+  ],
+  "instructions": [
+    "Mix flour, salt, and sugar. Using a processor, a pastry blender, or your fingertips, cut the salted butter into the dry ingredients until the mixture resembles cornmeal. Add unsalted butter and shortening and cut them in until the lumps are the size of peas.",
+    "If using a processor, transfer the mixture to a large bowl. Sprinkle on the ice water a little at a time, and toss with a fork until the mixture comes together in lumps and holds together when pressed. Add more ice water if necessary, sparingly. Avoid kneading the dough. Gather the dough into two balls, wrap each tightly in plastic wrap, and chill for at least four hours.",
+    "Prepare the shell. Roll the pastry into a 12-inch circle, 1/8-inch thick, and fit gently into the pan. Trim the edge a half-inch beyond the rim, fold under, and crimp or pinch to make a decorative edge. Prick the bottom with a fork. Freeze the shell for 20 to 30 minutes.",
+    "Prepare the filling. Grate the zest from the lemons into a small, noncorrodable bowl. Strain in the lemon juice, then press through as much lemon pulp as possible. In a heavy, noncorrodable saucepan, beat the eggs, yolks, and sugar until just mixed. Stir in the lemon juice and pulp, then the six tablespoons of butter.",
+    "Cook, stirring constantly, over low to medium heat, until the mixture comes together and thickens enough to coat a spoon. Remove from heat, allow to stand five minutes, then whisk briefly to smooth. Set aside.",
+    "Preheat the oven to 375 degrees. Line the frozen shell with aluminum foil, weight with beans or pie weights, and bake for 20 minutes, or until set and dry looking. Remove the weights and foil, turn the heat down to 350, and continue baking until the shell is golden brown, about 12 to 15 minutes. Set aside and allow to cool slightly, but leave the oven on.",
+    "Spread the prepared filling in the shell and bake for 10 to 15 minutes or until the filling is just set. Remove pie and turn oven to 375.",
+    "Make the meringue. Beat the egg whites until frothy, add the cream of tartar, and continue beating until rounded peaks form. Beat in sugar and vanilla. Spread the meringue over the filling, making sure it meets the edges of the crust to make a seal. Swirl in a design with a knife or spatula and bake for about 10 minutes, or until the meringue is lightly browned.",
+    "Allow to cool completely, from one to two hours, but do not refrigerate."
+  ],
+  "yield": "1 pie"
+}
