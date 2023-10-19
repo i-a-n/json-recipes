@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "004",
+  "title": "Marlborough Pie",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "pie crust",
+      "quantity": "1"
+    },
+    {
+      "name": "butter",
+      "quantity": "6 tablespoons"
+    },
+    {
+      "name": "stewed, pureed apples",
+      "quantity": "3/4 cup",
+      "notes": "Typically requires around 4 apples."
+    },
+    {
+      "name": "juice of 1 lemon",
+      "quantity": ""
+    },
+    {
+      "name": "sherry",
+      "quantity": "3/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "quantity": "1/2 cup"
+    },
+    {
+      "name": "white sugar",
+      "quantity": "3/4 cup"
+    },
+    {
+      "name": "eggs",
+      "quantity": "4"
+    },
+    {
+      "name": "grated nutmeg",
+      "quantity": "2 teaspoons",
+      "notes": "Or to taste"
+    }
+  ],
+  "instructions": [
+    "Use whatever pastry recipe you’d like to create the single crust. Mix flour, salt, and sugar with cold cubes of butter by hand until crumbly, then add just enough ice-cold water to bind the dough.",
+    "Divide the dough into two balls. Wrap and freeze one for a rainy day, then use the other one for the Marlborough pie. Refrigerate the pie dough for an hour, to let the gluten settle and the dough hydrate evenly.",
+    "Melt the butter and leave to cool. Prepare the stewed apples by peeling and dicing them, transferring them to a pot, and adding just enough water to cover. Boil until soft and simmer for about 30 minutes with a few dashes of ground cinnamon. Strain and mash the apples.",
+    "Squeeze the lemon, remove any seeds, and add the juice to 3/4 cup of the stewed apples. Add the sherry, cream, sugar, and mix until well incorporated. Add the melted butter, blending well. Beat and fold in the eggs.",
+    "Preheat the oven to 400°F. Roll out the pie crust into a deep (roughly 1½ to 2 inches deep), 8-inch pie plate. Add the grated nutmeg to the custard and spoon everything into the pastry-lined pie plate.",
+    "Bake for 15 minutes at 400°F. Reduce the heat to 350°F and bake for another 45 minutes or until a tester comes out clean. Place a baking tray or a sheet of aluminum foil on the bottom rack to catch any spills.",
+    "Note: Consider blind baking the crust for a firmer bottom. Line the unfilled crust with foil, weigh it down with coins or dried beans, and bake at 375°F for 10 minutes or until lightly brown."
+  ],
+  "yield": "1 pie"
+}
