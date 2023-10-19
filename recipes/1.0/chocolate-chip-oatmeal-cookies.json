@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "003",
+  "title": "Chocolate Chip Oatmeal Cookies",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "quantity": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "baking soda",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "quantity": "1/4 teaspoon"
+    },
+    {
+      "name": "rolled (old-fashioned) oats",
+      "quantity": "2 cups"
+    },
+    {
+      "name": "coarsely chopped pecans",
+      "quantity": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter, at room temperature",
+      "quantity": "8 tablespoons (1 stick)"
+    },
+    {
+      "name": "lightly packed light brown sugar",
+      "quantity": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "quantity": "1/2 cup"
+    },
+    {
+      "name": "large egg",
+      "quantity": "1"
+    },
+    {
+      "name": "maple syrup",
+      "quantity": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "semisweet chocolate chips",
+      "quantity": "3/4 cup"
+    }
+  ],
+  "instructions": [
+    "Set 2 racks in the middle and upper thirds of the oven and preheat to 350 degrees F.",
+    "In a medium bowl, stir the flour, baking powder, baking soda, salt, oats, and pecans together with a whisk or fork.",
+    "In a large bowl, beat the butter, brown sugar, and granulated sugar together for 30 seconds until blended. Beat in the egg until smooth and barely fluffy. With mixer running on medium high, drizzle in the maple syrup, and vanilla until incorporated.",
+    "Turn the mixer down to its lowest setting and gradually add the flour-oatmeal mixture. Blend just to combine, then mix in the chocolate chips.",
+    "Drop walnut-sized balls of dough onto a nonstick or parchment-lined cookie sheet at 3-inch intervals. With moistened fingers, flatten and round out the cookies a little.",
+    "Bake for 9 minutes, turning the pan once for even baking. The cookies are done when they are lightly browned on top.",
+    "Set the cookie sheets on a rack to cool."
+  ],
+  "yield": "3 dozen cookies"
+}
