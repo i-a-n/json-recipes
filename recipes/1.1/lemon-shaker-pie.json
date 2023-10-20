@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.1",
+  "recipe_id": "unique-recipe-id",
+  "title": "Lemon Shaker Pie",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "groupName": "For the filling",
+      "items": [
+        { "name": "lemons, preferably Meyer", "quantity": "2" },
+        { "name": "sugar", "quantity": "1¾ cups" },
+        { "name": "eggs", "quantity": "3" },
+        { "name": "pastry or all-purpose flour", "quantity": "3 tablespoons" },
+        { "name": "salted butter, melted", "quantity": "6 tablespoons" }
+      ]
+    },
+    {
+      "groupName": "For the pastry",
+      "items": [
+        { "name": "all-purpose flour, plus more for dusting", "quantity": "2½ cups" },
+        { "name": "salt", "quantity": "½ teaspoon" },
+        { "name": "sugar", "quantity": "¾ teaspoon" },
+        { "name": "unsalted butter, very cold and cut into ¼-inch cubes", "quantity": "15 tablespoons (almost 2 sticks)" },
+        { "name": "ice-cold water", "quantity": "½ cup" },
+        { "name": "milk", "quantity": "1 tablespoon" }
+      ]
+    }
+  ],
+  "instructions": [
+    "The day before serving, prepare the filling. Wash and dry the lemons. Freeze them for 10 minutes and then slice them as finely as you can using a mandoline, meat slicer, or very sharp knife. As you slice, pull out and discard any seeds. Place the lemons in a mixing bowl and toss with the sugar. Cover with a dish towel and set on the counter overnight.",
+    "The next day, prepare the pastry: combine the flour, salt, and sugar in a large mixing bowl. Using a fork or pastry cutter, work half of the butter into the flour until it resembles coarse meal. Quickly work the remaining butter into the dough until the biggest pieces are the size of lima beans. Drizzle in the water in several additions, tossing and mixing between each. (It should look rather ropy and rough.) Stop adding water when a few bits of dry flour remain in the bottom of the bowl; do not overwork the dough or it will become tough. Gather the dough into 2 balls and wrap each tightly with plastic wrap, then flatten into disks. Refrigerate for at least 30 minutes.",
+    "Preheat the oven to 425 degrees. Unwrap a disk of dough, place between two sheets of plastic wrap, and roll into a 9-inch circle, ⅛-inch thick. Trim the excess dough. Lay it on a cookie sheet, cover, and refrigerate. Roll the second disk into an 11-inch circle, ⅛-inch thick. Trim the excess dough. Gently place the larger circle in a 9-inch tart pan, letting the excess dough rise up the sides (do not trim). Cover and refrigerate until needed.",
+    "Using your hands, mix the eggs, flour, and butter into the lemon-sugar mixture, squeezing the lemons as you mix. Pour the mixture into the dough-lined tart pan to just below the pan’s rim. Using the point of a paring knife, carve 4 to 6 holes in the crust of the small dough circle. Lay it on top of the filling. Roughly fold the edges of the bottom crust over the top circle. Brush with milk. Bake for 30 minutes, then reduce the heat to 350 degrees and bake for 20 minutes more. Cool completely before serving."
+  ],
+  "yield": "One 9-inch pie"
+}
