@@ -1,5 +1,5 @@
 // typescript recipe schema
-// v1.1
+// v1.2
 
 interface Ingredient {
   name: string;
@@ -25,6 +25,6 @@ interface Recipe {
   creator: Creator;
   ingredients: Ingredient[] | IngredientGroup[]; // Can handle both grouped and ungrouped ingredients
   instructions: string[];
+  labels?: string[];
   yield: string;
 }
-

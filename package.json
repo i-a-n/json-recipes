@@ -1,0 +1,15 @@
+{
+  "name": "json-recipes",
+  "main": "distribution/index.js",
+  "type": "module",
+  "types": "recipes.d.ts",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "build": "bun index.js"
+  }
+}

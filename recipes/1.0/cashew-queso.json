@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "007",
   "title": "Cashew Queso",
+  "labels": ["snack", "vegan", "mexican"],
   "creator": {
     "user_id": "2",
     "username": "alex",

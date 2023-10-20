@@ -1,11 +1,12 @@
 {
   "recipe_id": "67890",
   "title": "Old-Fashioned Pancakes",
+  "labels": ["breakfast", "comfort food", "vegetarian"],
   "schema_version": "1.0",
   "creator": {
-    "user_id": "user456",
-    "username": "janedoe",
-    "email": "janedoe@example.com"
+    "user_id": "3",
+    "username": "ian",
+    "email": "ian@union.io"
   },
   "ingredients": [
     {
@@ -35,7 +36,7 @@
     {
       "name": "Butter",
       "quantity": "3 tablespoons, melted"
-    },
+    }
   ],
   "instructions": [
     "In a large mixing bowl, whisk together the flour, sugar, baking powder, and salt.",

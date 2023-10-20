@@ -2,6 +2,7 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Minestrone",
+  "labels": ["healthy", "vegetarian", "dinner", "soup"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -17,7 +18,10 @@
     { "name": "bay leaf", "quantity": "1" },
     { "name": "kosher salt", "quantity": "2 teaspoons" },
     { "name": "small leek, white part only, diced", "quantity": "1" },
-    { "name": "green beans, trimmed and cut into 1-inch lengths", "quantity": "½ pound" },
+    {
+      "name": "green beans, trimmed and cut into 1-inch lengths",
+      "quantity": "½ pound"
+    },
     { "name": "medium zucchini, cut into small dice", "quantity": "1" },
     { "name": "medium tomatoes, peeled, seeded and chopped", "quantity": "2" },
     { "name": "spinach, coarsely chopped", "quantity": "2 cups" },

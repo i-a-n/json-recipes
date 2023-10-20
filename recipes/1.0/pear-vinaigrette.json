@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "011",
   "title": "Pear Vinaigrette",
+  "labels": ["side dish", "salad"],
   "creator": {
     "user_id": "2",
     "username": "alex",

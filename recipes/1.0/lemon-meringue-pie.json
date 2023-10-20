@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "002",
   "title": "Lemon Meringue Pie",
+  "labels": ["dessert", "baking"],
   "creator": {
     "user_id": "2",
     "username": "alex",

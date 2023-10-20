@@ -2,6 +2,7 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Lemon Shaker Pie",
+  "labels": ["dessert", "baking"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -21,10 +22,16 @@
     {
       "groupName": "For the pastry",
       "items": [
-        { "name": "all-purpose flour, plus more for dusting", "quantity": "2½ cups" },
+        {
+          "name": "all-purpose flour, plus more for dusting",
+          "quantity": "2½ cups"
+        },
         { "name": "salt", "quantity": "½ teaspoon" },
         { "name": "sugar", "quantity": "¾ teaspoon" },
-        { "name": "unsalted butter, very cold and cut into ¼-inch cubes", "quantity": "15 tablespoons (almost 2 sticks)" },
+        {
+          "name": "unsalted butter, very cold and cut into ¼-inch cubes",
+          "quantity": "15 tablespoons (almost 2 sticks)"
+        },
         { "name": "ice-cold water", "quantity": "½ cup" },
         { "name": "milk", "quantity": "1 tablespoon" }
       ]

@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "017",
   "title": "Christmas Island Cocktail",
+  "labels": ["cocktail", "beverage", "tiki"],
   "creator": {
     "user_id": "2",
     "username": "alex",

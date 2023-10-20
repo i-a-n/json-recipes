@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "021",
   "title": "Three-Cup Chicken",
+  "labels": ["dinner", "international"],
   "creator": {
     "user_id": "2",
     "username": "alex",

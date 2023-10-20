@@ -2,10 +2,11 @@
   "recipe_id": "1234332235",
   "schema_version": "1.0",
   "title": "Pizza Dough",
+  "labels": ["dinner", "baking"],
   "creator": {
-    "user_id": "user123",
-    "username": "johndoe",
-    "email": "johndoe@example.com"
+    "user_id": "3",
+    "username": "ian",
+    "email": "ian@union.io"
   },
   "ingredients": [
     {

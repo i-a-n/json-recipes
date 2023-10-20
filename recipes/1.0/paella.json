@@ -1,11 +1,12 @@
 {
   "recipe_id": "1343445",
   "title": "Vegetarian Paella",
+  "labels": ["dinner", "international", "vegetarian"],
   "schema_version": "1.0",
   "creator": {
-    "user_id": "abcd1234",
-    "username": "test",
-    "email": "test"
+    "user_id": "3",
+    "username": "ian",
+    "email": "ian@union.io"
   },
   "ingredients": [
     {

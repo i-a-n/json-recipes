@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "019",
   "title": "Goombay Smash",
+  "labels": ["cocktail", "beverage", "tiki"],
   "creator": {
     "user_id": "00146",
     "username": "alex",

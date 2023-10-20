@@ -1,11 +1,12 @@
 {
   "recipe_id": "67890",
   "title": "Thanksgiving Tofurkey",
+  "labels": ["vegan", "dinner", "thanksgiving"],
   "schema_version": "1.0",
   "creator": {
-    "user_id": "efgh5678",
-    "username": "asdf",
-    "email": "asdf@example.com"
+    "user_id": "3",
+    "username": "ian",
+    "email": "ian@union.io"
   },
   "ingredients": [
     {

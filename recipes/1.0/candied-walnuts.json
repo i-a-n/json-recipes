@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "009",
   "title": "Candied Walnuts",
+  "labels": ["snack", "dessert"],
   "creator": {
     "user_id": "2",
     "username": "alex",

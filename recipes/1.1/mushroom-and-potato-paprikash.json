@@ -2,6 +2,7 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Mushroom and Potato Paprikash",
+  "labels": ["dinner", "international", "vegetarian"],
   "creator": {
     "user_id": "2",
     "username": "alex",

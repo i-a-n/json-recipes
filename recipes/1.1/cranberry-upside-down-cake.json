@@ -2,6 +2,7 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Cranberry Upside Down Cake",
+  "labels": ["dessert", "baking"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,7 +11,7 @@
   "ingredients": [
     {
       "groupName": "For The Topping",
-      "ingredients": [
+      "items": [
         { "name": "unsalted butter", "quantity": "4 tablespoons (½ stick)" },
         { "name": "brown sugar", "quantity": "¾ cup" },
         { "name": "fresh cranberries", "quantity": "9 ounces (2⅔ cups)" },
@@ -19,11 +20,14 @@
     },
     {
       "groupName": "For The Batter",
-      "ingredients": [
+      "items": [
         { "name": "all-purpose flour", "quantity": "1½ cups" },
         { "name": "baking powder", "quantity": "2 teaspoons" },
         { "name": "salt", "quantity": "¼ teaspoon" },
-        { "name": "unsalted butter, at room temperature", "quantity": "8 tablespoons (1 stick)" },
+        {
+          "name": "unsalted butter, at room temperature",
+          "quantity": "8 tablespoons (1 stick)"
+        },
         { "name": "sugar", "quantity": "1 cup" },
         { "name": "vanilla extract", "quantity": "1 teaspoon" },
         { "name": "eggs, separated", "quantity": "2" },

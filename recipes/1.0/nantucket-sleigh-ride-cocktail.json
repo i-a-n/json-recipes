@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "018",
   "title": "Nantucket Sleigh Ride Cocktail",
+  "labels": ["cocktail", "beverage", "tiki"],
   "creator": {
     "user_id": "00145",
     "username": "alex",
@@ -39,8 +40,6 @@
       "quantity": "1 oz"
     }
   ],
-  "instructions": [
-    "Stir all ingredients together and serve."
-  ],
+  "instructions": ["Stir all ingredients together and serve."],
   "yield": "1 drink"
 }

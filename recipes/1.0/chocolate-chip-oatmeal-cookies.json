@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "003",
   "title": "Chocolate Chip Oatmeal Cookies",
+  "labels": ["dessert", "snack", "baking"],
   "creator": {
     "user_id": "2",
     "username": "alex",

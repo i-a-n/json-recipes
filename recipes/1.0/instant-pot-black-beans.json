@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "005",
   "title": "Instant Pot Black Beans",
+  "labels": ["vegan", "side dish", "mexican"],
   "creator": {
     "user_id": "2",
     "username": "alex",
