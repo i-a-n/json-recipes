@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.1",
+  "recipe_id": "unique-recipe-id-4",
+  "title": "Banana Pudding",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "quantity": "1 (14-ounce) can"
+    },
+    {
+      "name": "ice-cold water",
+      "quantity": "1½ cups"
+    },
+    {
+      "name": "instant vanilla pudding mix",
+      "quantity": "1 (3.4-ounce) package"
+    },
+    {
+      "name": "cold heavy cream",
+      "quantity": "3 cups"
+    },
+    {
+      "name": "vanilla wafer cookies",
+      "quantity": "1 (11-ounce) box",
+      "notes": "such as Nilla"
+    },
+    {
+      "name": "ripe bananas",
+      "quantity": "4 to 5",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Step 1: In the bowl of a stand mixer fitted with the whisk attachment, beat the condensed milk and water on low speed until blended, then increase the speed to medium and whisk until well combined, about 1 minute. Add the instant pudding mix and beat until there are no lumps and the mixture is smooth, about 2 minutes. Transfer the mixture to a medium bowl, cover, and refrigerate until firm, at least 1 hour or overnight.",
+    "Step 2: Using the stand mixer with the whisk attachment, whip the heavy cream on medium speed for about 1 minute, until the cream starts to thicken, then increase the speed to medium-high and whip until stiff peaks form. Be careful not to overwhip.",
+    "Step 3: With the mixer running on low speed, add the pudding mixture a spoonful at a time. Mix until well blended and no streaks of pudding remain.",
+    "Step 4: To assemble, set aside 4 to 5 cookies, whole or crumbled, for garnish. In a 4- to 5-quart trifle bowl or a wide glass bowl (or in 12 8-ounce bowls or ramekins), spread one-quarter of the pudding over the bottom and layer with one-third of the cookies and one-third of the sliced bananas (enough to cover the layer). Repeat the layering twice more. End with a final layer of pudding.",
+    "Step 5: Cover tightly with plastic wrap and refrigerate for 4 to 6 hours. Cookies should be tender when poked with a knife. This dessert is best served within 12 hours of assembling. To serve, garnish the top with the reserved cookies or cookie crumbs."
+  ],
+  "yield": "12 servings"
+}
