@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "022",
+  "title": "Green Bean Casserole",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "yellow onions",
+      "quantity": "2",
+      "notes": "medium, halved and thinly sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "1/2 cup"
+    },
+    {
+      "name": "panko or plain breadcrumbs",
+      "quantity": "2 tablespoons"
+    },
+    {
+      "name": "table salt",
+      "quantity": "1 tbso"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "quantity": "to taste"
+    },
+    {
+      "name": "Canola, safflower, peanut or other high-heat oil",
+      "quantity": "as needed",
+      "notes": "for deep-frying onions"
+    },
+    {
+      "name": "butter",
+      "quantity": "3 tablespoons"
+    },
+    {
+      "name": "mushrooms",
+      "quantity": "12 ounces",
+      "notes": "thinly sliced or coarsely chopped"
+    },
+    {
+      "name": "fresh nutmeg",
+      "quantity": "Few gratings",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable or chicken broth",
+      "quantity": "1 1/2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "quantity": "1/2 cup"
+    },
+    {
+      "name": "green beans",
+      "quantity": "1 to 1 1/2 pounds",
+      "notes": "trimmed and halved"
+    }
+  ],
+  "instructions": [
+    "To make crispy onions: Toss thinly-sliced onions with about half the flour, all of the breadcrumbs, some salt and pepper. Heat a 1/2-inch or so of oil in a 12-inch cast iron skillet until a drop of water flicked into it will hiss and sputter. Add onions, just a handful at a time in something close to a single layer, and fry until a light golden brown. Remove with a spider or large slotted spoon, let oil drip off a little, back into the skillet, then spread onions out on paper towels to drain. Repeat with remaining onions. Set aside until needed.",
+    "Heat oven to 400 degrees F.",
+    "Prepare the beans: Bring a large pot of salted water to boil and boil greens for 5 minutes (for standard green beans) or 2 to 3 minutes (for haricot vert, or skinny ones). Drain beans, then plunge them into ice water to full stop them from cooking. Drain again, and set aside.",
+    "Make the mushroom sauce: Over medium-high heat, melt butter in the bottom of a 12-inch cast iron skillet. Add the mushrooms, salt and pepper and saute them until they start releasing their liquid, anywhere from 3 to 5 minutes, depending on how they were chopped. Add the garlic and saute one minute more. Add the flour and stir it until it fully coats the mushrooms. Add the broth, 1/4 cup at a time, stirring the whole time. Simmer mixture for 1 minute, then add cream and bring back to a simmer, cooking until the sauce thickens a bit, about 5 to 6 minutes, stirring frequently.",
+    "Assemble and bake: Add cooked green beans to sauce and stir until they are coated. Sprinkle crispy onions over the top. Bake for 15 minutes, or until sauce is bubbling and onions are a shade darker."
+  ],
+  "yield": "6 - 12 servings"
+}
