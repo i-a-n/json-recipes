@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "018",
+  "title": "Nantucket Sleigh Ride Cocktail",
+  "creator": {
+    "user_id": "00145",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "lime juice",
+      "quantity": "3/4 oz"
+    },
+    {
+      "name": "white grapefruit juice",
+      "quantity": "1/4 oz"
+    },
+    {
+      "name": "simple syrup",
+      "quantity": "1/2 oz",
+      "notes": "1:1"
+    },
+    {
+      "name": "St. Elizabeth Allspice Dram",
+      "quantity": "1/2 oz"
+    },
+    {
+      "name": "Apricot brandy",
+      "quantity": "3/4 oz",
+      "notes": "such as Bols or Marie Brizard"
+    },
+    {
+      "name": "Coruba dark Jamaican rum",
+      "quantity": "1 oz"
+    },
+    {
+      "name": "El Dorado 8-Year Demerara rum",
+      "quantity": "1 oz"
+    }
+  ],
+  "instructions": [
+    "Stir all ingredients together and serve."
+  ],
+  "yield": "1 drink"
+}
