@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.1",
+  "recipe_id": "unique-recipe-id-1",
+  "title": "Blueberry Cobbler",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "groupName": "Berries",
+      "items": [
+        {
+          "name": "fresh blueberries",
+          "quantity": "4½ cups"
+        },
+        {
+          "name": "sugar",
+          "quantity": "⅓ cup"
+        },
+        {
+          "name": "all-purpose flour",
+          "quantity": "1 tablespoon"
+        }
+      ]
+    },
+    {
+      "groupName": "Dough",
+      "items": [
+        {
+          "name": "all-purpose flour",
+          "quantity": "1½ cups"
+        },
+        {
+          "name": "kosher salt",
+          "quantity": "½ teaspoon"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1½ tablespoons"
+        },
+        {
+          "name": "baking powder",
+          "quantity": "2¼ teaspoons"
+        },
+        {
+          "name": "cold unsalted butter",
+          "quantity": "6 tablespoons",
+          "notes": "cut into ½-inch pieces"
+        },
+        {
+          "name": "heavy cream",
+          "quantity": "¾ cup",
+          "notes": "plus additional for serving, if desired"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    "Step 1: Heat the oven to 375 degrees. To prepare the berries, place in a bowl and toss with the sugar and flour. Set aside.",
+    "Step 2: To make the dough, mix the flour, salt, sugar, and baking powder in a bowl. Cut in the butter until the mixture resembles coarse meal. Add the cream and mix lightly, just until the dry ingredients are moistened.",
+    "Step 3: Put the blueberries in a 1½-quart gratin or baking dish. Make patties out of the dough, 2 to 2½ inches in diameter and ½-inch thick. Arrange them over the top of the berries. Bake until the topping is brown and the juices bubble thickly around it, about 35 to 40 minutes.",
+    "Step 4: Let cool slightly. Serve warm, with cream to pour on top, if desired."
+  ],
+  "yield": "1 pie"
+}
