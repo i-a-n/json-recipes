@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "unique-recipe-id",
+  "title": "Cranberry Upside Down Cake",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "groupName": "For The Topping",
+      "ingredients": [
+        { "name": "unsalted butter", "quantity": "4 tablespoons (½ stick)" },
+        { "name": "brown sugar", "quantity": "¾ cup" },
+        { "name": "fresh cranberries", "quantity": "9 ounces (2⅔ cups)" },
+        { "name": "fresh orange juice", "quantity": "¼ cup" }
+      ]
+    },
+    {
+      "groupName": "For The Batter",
+      "ingredients": [
+        { "name": "all-purpose flour", "quantity": "1½ cups" },
+        { "name": "baking powder", "quantity": "2 teaspoons" },
+        { "name": "salt", "quantity": "¼ teaspoon" },
+        { "name": "unsalted butter, at room temperature", "quantity": "8 tablespoons (1 stick)" },
+        { "name": "sugar", "quantity": "1 cup" },
+        { "name": "vanilla extract", "quantity": "1 teaspoon" },
+        { "name": "eggs, separated", "quantity": "2" },
+        { "name": "whole milk", "quantity": "½ cup" },
+        { "name": "cream of tartar", "quantity": "¼ teaspoon" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees. To prepare topping: Put butter and brown sugar in a 9-inch round cake pan, and put it in the oven. As the sugar dissolves, stir to distribute the mixture evenly over the pan. When the sugar starts to caramelize, remove pan from the oven and allow to cool.",
+    "In a small bowl, combine cranberries and orange juice. Toss to coat berries well. Spread berries evenly in pan, and sprinkle with any juice remaining in bowl. Set pan aside, and prepare the cake batter.",
+    "To prepare batter: In a large mixing bowl, sift together flour, baking powder, and salt. Set aside.",
+    "Using an electric mixer, cream butter with sugar until pale, light, and fluffy. Add vanilla, and beat in egg yolks one at a time, scraping bowl once or twice. Add flour mixture alternately with milk, ending with dry ingredients. Set batter aside.",
+    "Using an electric mixer, whisk egg whites with cream of tartar just until whites are stiff enough to hold a slight peak. Fold whites into batter ⅓ at a time. Spoon batter into prepared pan, and spread it evenly over cranberries. Bake until top is browned and cake pulls away slightly from edges of pan, 25 to 35 minutes. Let cake cool for 15 minutes before turning onto cake plate. Serve with slightly sweetened whipped cream, flavored, if desired, with orange liqueur."
+  ],
+  "yield": "One 9-inch round cake"
+}
