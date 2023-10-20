@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.1",
+  "recipe_id": "unique-recipe-id",
+  "title": "Minestrone",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    { "name": "dried cannellini or other white beans", "quantity": "1 cup" },
+    { "name": "olive oil", "quantity": "¼ cup" },
+    { "name": "large onion, finely chopped", "quantity": "1" },
+    { "name": "carrots, peeled and finely chopped", "quantity": "2" },
+    { "name": "garlic cloves, coarsely chopped", "quantity": "4" },
+    { "name": "thyme sprigs", "quantity": "5" },
+    { "name": "bay leaf", "quantity": "1" },
+    { "name": "kosher salt", "quantity": "2 teaspoons" },
+    { "name": "small leek, white part only, diced", "quantity": "1" },
+    { "name": "green beans, trimmed and cut into 1-inch lengths", "quantity": "½ pound" },
+    { "name": "medium zucchini, cut into small dice", "quantity": "1" },
+    { "name": "medium tomatoes, peeled, seeded and chopped", "quantity": "2" },
+    { "name": "spinach, coarsely chopped", "quantity": "2 cups" },
+    { "name": "Grated Parmesan cheese, for serving", "quantity": "" },
+    { "name": "Pesto for garnish", "quantity": "" }
+  ],
+  "instructions": [
+    "Soak the beans overnight in a large pot, covered by several inches of water.",
+    "The next day, simmer the beans 2 hours or until tender. Drain and set aside, reserving the cooking water.",
+    "Heat the olive oil in a large pot over medium heat. Add the onion and carrots and cook for about 10 minutes, or until onion is translucent. Add the garlic, thyme, bay leaf, and salt. Reduce heat to medium-low and cook, stirring often, for 5 minutes longer.",
+    "Add 3 cups water and bring to a low boil. When boiling, add the leek and green beans. After 5 minutes, add the zucchini and tomatoes. After 15 minutes, add the spinach and beans and cook for 5 more minutes. If the soup is too thick, add water (reserved bean water is good).",
+    "Remove the bay leaf and bare thyme sticks and adjust the seasoning, if necessary. Serve in bowls, each garnished with grated Parmesan cheese or pesto."
+  ],
+  "yield": "[Number of servings not specified]"
+}
