@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "019",
+  "title": "Goombay Smash",
+  "creator": {
+    "user_id": "00146",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "pineapple juice",
+      "quantity": "3 oz"
+    },
+    {
+      "name": "orange juice",
+      "quantity": "2 oz"
+    },
+    {
+      "name": "Malibu rum or other coconut-flavored rum",
+      "quantity": "2 oz"
+    },
+    {
+      "name": "light rum",
+      "quantity": "1 oz"
+    },
+    {
+      "name": "gold rum",
+      "quantity": "1 oz"
+    },
+    {
+      "name": "dark rum",
+      "quantity": "1 oz"
+    },
+    {
+      "name": "pineapple wedges",
+      "quantity": "2",
+      "notes": "for garnish"
+    },
+    {
+      "name": "orange slices",
+      "quantity": "2",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Fill cocktail shaker with ice; add pineapple juice, orange juice, and all rum. Cover and shake until very cold.",
+    "Fill 2 short glasses with ice. Strain cocktail mixture over, dividing equally.",
+    "Garnish with pineapple wedges and orange slices."
+  ],
+  "yield": "2 drinks"
+}
