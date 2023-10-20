@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.1",
+  "recipe_id": "unique-recipe-id",
+  "title": "Grapefruit Vinaigrette",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "pink grapefruit",
+      "quantity": "1",
+      "notes": "about 3 pounds, outer leaves removed, quartered through the core, core removed, quarters cut crosswise in half, finely shredded"
+    },
+    {
+      "name": "mild honey",
+      "quantity": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "quantity": "1 pinch"
+    },
+    {
+      "name": "sherry vinegar or cider vinegar",
+      "quantity": "1.25 tbsp"
+    },
+    { "name": "sherry or cider vinegar", "quantity": "2 tablespoons" },
+    { "name": "olive oil", "quantity": "1 tbsp" }
+  ],
+  "instructions": [
+    "Squeeze ½ of the grapefruit. Measure out ⅓ cup of juice and place it in a small saucepan. Add the honey or agave and bring to a boil over medium-high heat. Reduce to ¼ cup and remove from the heat. Whisk in salt, vinegar, and the oils.",
+    "Cut away the peel and pith from the remaining grapefruit half. Cut the sections away from the membranes that divide them and chop fine. Stir into the vinaigrette."
+  ],
+  "yield": "2 or more servings"
+}
