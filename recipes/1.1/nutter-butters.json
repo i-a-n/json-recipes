@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.1",
+  "recipe_id": "unique-recipe-id-3",
+  "title": "Nutter Butters",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "groupName": "Cookie Dough",
+      "items": [
+        {
+          "name": "all-purpose flour",
+          "quantity": "2 cups/256 grams"
+        },
+        {
+          "name": "baking powder",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "name": "baking soda",
+          "quantity": "4 teaspoons"
+        },
+        {
+          "name": "salted butter",
+          "quantity": "1 pound/454 grams",
+          "notes": "4 sticks, at room temperature"
+        },
+        {
+          "name": "creamy peanut butter",
+          "quantity": "⅔ cup/180 grams",
+          "notes": "preferably Skippy"
+        },
+        {
+          "name": "granulated sugar",
+          "quantity": "1 cup/201 grams"
+        },
+        {
+          "name": "firmly packed light brown sugar",
+          "quantity": "1 cup/200 grams"
+        },
+        {
+          "name": "large eggs",
+          "quantity": "2"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": "1½ teaspoons"
+        },
+        {
+          "name": "coarsely chopped peanuts",
+          "quantity": "⅓ cup/47 grams"
+        },
+        {
+          "name": "quick-cooking oats",
+          "quantity": "2½ cups/223 grams"
+        }
+      ]
+    },
+    {
+      "groupName": "Filling",
+      "items": [
+        {
+          "name": "salted butter",
+          "quantity": "½ pound/227 grams",
+          "notes": "2 sticks, at room temperature"
+        },
+        {
+          "name": "creamy peanut butter",
+          "quantity": "1 cup/270 grams",
+          "notes": "preferably Skippy"
+        },
+        {
+          "name": "confectioners' sugar",
+          "quantity": "3⅓ cups/410 grams"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    "Step 1: Heat oven to 350 degrees. In a medium bowl, mix together the flour, baking powder, and baking soda; set aside. Using a mixer with a paddle attachment, cream together the butter and peanut butter. Add sugars and beat at medium speed for 4 minutes, scraping down bowl twice.",
+    "Step 2: At low speed, add eggs one at a time and vanilla. Add flour mixture and mix at low speed until well combined, scraping down bowl as necessary. Add peanuts and oats, and mix well. Using an ice cream scoop 1½ inches in diameter (about 1 heaping tablespoon), place balls of dough on parchment-lined baking sheets at least 2½ inches apart. Bake until cookies have spread and turned golden brown, about 10 to 12 minutes. Remove from oven and set aside to cool and firm up on the baking sheet, 5 to 10 minutes. Transfer to a rack to cool completely before filling.",
+    "Step 3: Using an electric mixer, cream together the butter, peanut butter, and confectioners' sugar until very smooth.",
+    "Step 4: To assemble cookies, spread a thin layer (about ⅛ inch) on the underside of a cookie. Sandwich with another cookie, being careful not to break them. Repeat."
+  ],
+  "yield": "12 cookies"
+}
