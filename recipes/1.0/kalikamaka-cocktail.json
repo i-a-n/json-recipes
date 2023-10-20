@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "016",
+  "title": "Kalikamaka Cocktail",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "Sailor Jerry Spiced Rum",
+      "quantity": "1 oz"
+    },
+    {
+      "name": "Kraken Dark Rum",
+      "quantity": "1/2 oz"
+    },
+    {
+      "name": "mulled apple cider",
+      "quantity": "1 1/2 oz",
+      "notes": "Apple juice can be substituted in a pinch"
+    },
+    {
+      "name": "cinnamon syrup",
+      "quantity": "1/2 oz",
+      "notes": "See instructions for preparation"
+    },
+    {
+      "name": "fresh lime juice",
+      "quantity": "1/4 oz"
+    },
+    {
+      "name": "bitters",
+      "quantity": "1 dash"
+    },
+    {
+      "name": "cinnamon sticks",
+      "quantity": "",
+      "notes": "For garnish and cinnamon syrup preparation"
+    }
+  ],
+  "instructions": [
+    "To make the cinnamon syrup, combine 1 cup water with 1 cup sugar, and bring to a boil over medium heat. Reduce heat to medium-low and let simmer for 8-10 minutes until sugar has dissolved, stirring frequently. Let cool. Ditch the cinnamon sticks, strain into a clean glass jar and cover. Store refrigerated for up to two weeks.",
+    "To make the cocktail, throw everything in a shaker with ice and shake it up good. Rim a martini glass lightly with cinnamon, and fill the glass with the chilled booze. Garnish with a cinnamon stick and enjoy the holidays!"
+  ],
+  "yield": "1 drink"
+}
