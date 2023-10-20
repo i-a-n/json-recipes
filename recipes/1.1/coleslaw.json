@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.1",
+  "recipe_id": "unique-recipe-id",
+  "title": "Coleslaw",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "medium cabbage",
+      "quantity": "1",
+      "notes": "about 3 pounds, outer leaves removed, quartered through the core, core removed, quarters cut crosswise in half, finely shredded"
+    },
+    {
+      "name": "large jalapeño pepper",
+      "quantity": "1",
+      "notes": "cut open, seeds discarded, diced fine"
+    },
+    {
+      "name": "small red onion",
+      "quantity": "½",
+      "notes": "cut in half through the stem, peeled, thinly sliced"
+    },
+    {
+      "name": "loosely packed cilantro leaves",
+      "quantity": "1 cup",
+      "notes": "coarsely chopped"
+    },
+    { "name": "fresh lime juice", "quantity": "3 to 4 tablespoons" },
+    { "name": "red wine vinegar", "quantity": "3 to 4 teaspoons" },
+    { "name": "olive oil", "quantity": "¼ to ⅓ cup" },
+    {
+      "name": "Maldon or other sea salt",
+      "quantity": "1½ teaspoons",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "freshly ground pepper",
+      "quantity": "½ teaspoon",
+      "notes": "or more to taste"
+    },
+    { "name": "sugar", "quantity": "Large pinch", "notes": "or more to taste" }
+  ],
+  "instructions": [
+    "In a very large bowl or pot, combine the prepared cabbage, jalapeño, onion, and cilantro. Toss to mix. Sprinkle with the lime juice, vinegar, oil, salt, pepper, and sugar, and toss to coat.",
+    "Let slaw sit for 1 hour, tossing occasionally. Drain; taste and adjust seasonings. Wait another hour. Serve at room temperature."
+  ],
+  "yield": "6 or more servings"
+}
