@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.1",
+  "recipe_id": "unique-recipe-id",
+  "title": "Baked Farro with Lentils",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "farro",
+      "quantity": "1 cup"
+    },
+    {
+      "name": "dried green or brown lentils",
+      "quantity": "½ cup"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "quantity": "2 tablespoons",
+      "notes": "plus more for drizzling"
+    },
+    {
+      "name": "large yellow onion",
+      "quantity": "1",
+      "notes": "coarsely chopped"
+    },
+    {
+      "name": "Kosher salt",
+      "quantity": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "quantity": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red-pepper flakes",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "tomato purée or your favorite tomato sauce",
+      "quantity": "28 ounces"
+    },
+    {
+      "name": "sprigs of oregano, thyme, rosemary, or basil, or dried",
+      "quantity": "2 sprigs",
+      "notes": "optional, or ½ teaspoon dried"
+    },
+    {
+      "name": "block feta",
+      "quantity": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 400 degrees and place one rack 6 inches from the broiler. Place the farro in an 8-by-8-inch (or 2-quart) broiler-proof baking dish and transfer to the oven to toast, 10 to 15 minutes. Remove the dish from the oven and scatter the lentils over the farro.",
+    "While the farro toasts, make the tomato sauce: In a medium saucepan over medium-high heat, warm the 2 tablespoons olive oil. Add the onion, season with salt and pepper, and cook, stirring occasionally, until softened, 5 to 7 minutes. Add the garlic and red-pepper flakes and cook until fragrant, 1 to 2 minutes. Add the tomato purée, herb sprigs (if using), and 2½ cups water. Season with salt and pepper, and bring to a boil.",
+    "Gently pour the tomato sauce over the lentils and farro and stir to combine. Bake, stirring halfway through, until the lentils and farro are tender, 40 to 50 minutes. If at any point the mixture looks dry, add ¼ cup water. Meanwhile, cut the feta into ¼-inch slices and break each piece in half.",
+    "Remove the dish from the oven and turn on the broil setting. Stir the lentils and farro once more, discard the herb sprigs (if using), then top with the slices of feta. Drizzle with olive oil and broil until the feta is molten and charred in spots, 6 to 8 minutes. (Depending on your broiler, you may need to rotate the pan after 2 or 3 minutes, for even cooking.)"
+  ],
+  "yield": "4+ servings"
+}
