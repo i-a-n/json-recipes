@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "recipe_id": "008", // You can replace this with a unique identifier
+  "recipe_id": "008",
   "title": "Butternut Squash Soup",
   "creator": {
     "user_id": "2",
