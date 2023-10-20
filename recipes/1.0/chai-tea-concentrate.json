@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "recipe_id": "020",
+  "title": "Chai Tea Concentrate",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "name": "water",
+      "quantity": "6 cups"
+    },
+    {
+      "name": "black tea bags",
+      "quantity": "12"
+    },
+    {
+      "name": "cinnamon stick",
+      "quantity": "1"
+    },
+    {
+      "name": "fresh ginger",
+      "quantity": "1 thumb-sized piece",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "orange zest",
+      "quantity": "1 tbsp"
+    },
+    {
+      "name": "cardamom pods or cardamom seeds",
+      "quantity": "10 pods or 60 seeds"
+    },
+    {
+      "name": "star anise pods",
+      "quantity": "3"
+    },
+    {
+      "name": "cloves",
+      "quantity": "20"
+    },
+    {
+      "name": "black peppercorns",
+      "quantity": "20"
+    },
+    {
+      "name": "freshly ground nutmeg",
+      "quantity": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "1 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "vanilla bean or vanilla extract",
+      "quantity": "1 bean or 2 tbsp",
+      "notes": "add extract at the end if using"
+    }
+  ],
+  "instructions": [
+    "Bring water to a boil.",
+    "Add tea bags, spices, and vanilla bean (if using extract, hold off until the end to add it). Remove from heat and let steep for 15-20 minutes, longer depending on how strong you want it.",
+    "Strain and add the brown sugar and vanilla extract if using. Stir to combine.",
+    "Mix ½ cup concentrate with ½ cup any type of milk. Heat on the stovetop or microwave.",
+    "Keep refrigerated. Enjoy for up to 2 weeks."
+  ],
+  "yield": "12 servings"
+}
