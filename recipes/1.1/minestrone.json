@@ -2,31 +2,77 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Minestrone",
-  "labels": ["healthy", "vegetarian", "dinner", "soup"],
+  "labels": ["main"],
   "creator": {
     "user_id": "2",
     "username": "alex",
     "email": "alex@union.io"
   },
   "ingredients": [
-    { "name": "dried cannellini or other white beans", "quantity": "1 cup" },
-    { "name": "olive oil", "quantity": "¼ cup" },
-    { "name": "large onion, finely chopped", "quantity": "1" },
-    { "name": "carrots, peeled and finely chopped", "quantity": "2" },
-    { "name": "garlic cloves, coarsely chopped", "quantity": "4" },
-    { "name": "thyme sprigs", "quantity": "5" },
-    { "name": "bay leaf", "quantity": "1" },
-    { "name": "kosher salt", "quantity": "2 teaspoons" },
-    { "name": "small leek, white part only, diced", "quantity": "1" },
     {
-      "name": "green beans, trimmed and cut into 1-inch lengths",
-      "quantity": "½ pound"
-    },
-    { "name": "medium zucchini, cut into small dice", "quantity": "1" },
-    { "name": "medium tomatoes, peeled, seeded and chopped", "quantity": "2" },
-    { "name": "spinach, coarsely chopped", "quantity": "2 cups" },
-    { "name": "Grated Parmesan cheese, for serving", "quantity": "" },
-    { "name": "Pesto for garnish", "quantity": "" }
+      "items": [
+        {
+          "name": "dried cannellini or other white beans",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "¼ cup"
+        },
+        {
+          "name": "large onion, finely chopped",
+          "quantity": "1"
+        },
+        {
+          "name": "carrots, peeled and finely chopped",
+          "quantity": "2"
+        },
+        {
+          "name": "garlic cloves, coarsely chopped",
+          "quantity": "4"
+        },
+        {
+          "name": "thyme sprigs",
+          "quantity": "5"
+        },
+        {
+          "name": "bay leaf",
+          "quantity": "1"
+        },
+        {
+          "name": "kosher salt",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "name": "small leek, white part only, diced",
+          "quantity": "1"
+        },
+        {
+          "name": "green beans, trimmed and cut into 1-inch lengths",
+          "quantity": "½ pound"
+        },
+        {
+          "name": "medium zucchini, cut into small dice",
+          "quantity": "1"
+        },
+        {
+          "name": "medium tomatoes, peeled, seeded and chopped",
+          "quantity": "2"
+        },
+        {
+          "name": "spinach, coarsely chopped",
+          "quantity": "2 cups"
+        },
+        {
+          "name": "Grated Parmesan cheese, for serving",
+          "quantity": ""
+        },
+        {
+          "name": "Pesto for garnish",
+          "quantity": ""
+        }
+      ]
+    }
   ],
   "instructions": [
     "Soak the beans overnight in a large pot, covered by several inches of water.",

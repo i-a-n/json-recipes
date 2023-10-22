@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "003",
   "title": "Chocolate Chip Oatmeal Cookies",
-  "labels": ["dessert", "snack", "baking"],
+  "labels": ["dessert", "baking"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,56 +10,60 @@
   },
   "ingredients": [
     {
-      "name": "all-purpose flour",
-      "quantity": "1 cup"
-    },
-    {
-      "name": "baking powder",
-      "quantity": "1/2 teaspoon"
-    },
-    {
-      "name": "baking soda",
-      "quantity": "1/2 teaspoon"
-    },
-    {
-      "name": "salt",
-      "quantity": "1/4 teaspoon"
-    },
-    {
-      "name": "rolled (old-fashioned) oats",
-      "quantity": "2 cups"
-    },
-    {
-      "name": "coarsely chopped pecans",
-      "quantity": "1/2 cup"
-    },
-    {
-      "name": "unsalted butter, at room temperature",
-      "quantity": "8 tablespoons (1 stick)"
-    },
-    {
-      "name": "lightly packed light brown sugar",
-      "quantity": "1/2 cup"
-    },
-    {
-      "name": "granulated sugar",
-      "quantity": "1/2 cup"
-    },
-    {
-      "name": "large egg",
-      "quantity": "1"
-    },
-    {
-      "name": "maple syrup",
-      "quantity": "1/4 cup"
-    },
-    {
-      "name": "vanilla extract",
-      "quantity": "1/2 teaspoon"
-    },
-    {
-      "name": "semisweet chocolate chips",
-      "quantity": "3/4 cup"
+      "items": [
+        {
+          "name": "all-purpose flour",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "baking powder",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "baking soda",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "salt",
+          "quantity": "1/4 teaspoon"
+        },
+        {
+          "name": "rolled (old-fashioned) oats",
+          "quantity": "2 cups"
+        },
+        {
+          "name": "coarsely chopped pecans",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "unsalted butter, at room temperature",
+          "quantity": "8 tablespoons (1 stick)"
+        },
+        {
+          "name": "lightly packed light brown sugar",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "granulated sugar",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "large egg",
+          "quantity": "1"
+        },
+        {
+          "name": "maple syrup",
+          "quantity": "1/4 cup"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "semisweet chocolate chips",
+          "quantity": "3/4 cup"
+        }
+      ]
     }
   ],
   "instructions": [

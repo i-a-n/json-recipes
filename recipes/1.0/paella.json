@@ -1,7 +1,7 @@
 {
   "recipe_id": "1343445",
   "title": "Vegetarian Paella",
-  "labels": ["dinner", "international", "vegetarian"],
+  "labels": ["main"],
   "schema_version": "1.0",
   "creator": {
     "user_id": "3",
@@ -10,48 +10,52 @@
   },
   "ingredients": [
     {
-      "name": "Short-grain paella rice",
-      "quantity": "1/2 cup"
-    },
-    {
-      "name": "Oyster mushrooms",
-      "quantity": "1/2 cup chopped"
-    },
-    {
-      "name": "Vegetable broth",
-      "quantity": "1 1/2 cups"
-    },
-    {
-      "name": "Saffron threads",
-      "quantity": "A pinch"
-    },
-    {
-      "name": "Spanish smoked paprika",
-      "quantity": "1 teaspoon"
-    },
-    {
-      "name": "Small onion",
-      "quantity": "1/2"
-    },
-    {
-      "name": "Medium tomato",
-      "quantity": "1"
-    },
-    {
-      "name": "Garlic",
-      "quantity": "4 cloves"
-    },
-    {
-      "name": "Olive oil",
-      "quantity": "4 tbsp"
-    },
-    {
-      "name": "Lemon",
-      "quantity": "1, for garnish"
-    },
-    {
-      "name": "Fresh parsley",
-      "quantity": "A handful, chopped for garnish"
+      "items": [
+        {
+          "name": "Short-grain paella rice",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Oyster mushrooms",
+          "quantity": "1/2 cup chopped"
+        },
+        {
+          "name": "Vegetable broth",
+          "quantity": "1 1/2 cups"
+        },
+        {
+          "name": "Saffron threads",
+          "quantity": "A pinch"
+        },
+        {
+          "name": "Spanish smoked paprika",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "Small onion",
+          "quantity": "1/2"
+        },
+        {
+          "name": "Medium tomato",
+          "quantity": "1"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "4 cloves"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": "4 tbsp"
+        },
+        {
+          "name": "Lemon",
+          "quantity": "1, for garnish"
+        },
+        {
+          "name": "Fresh parsley",
+          "quantity": "A handful, chopped for garnish"
+        }
+      ]
     }
   ],
   "instructions": [

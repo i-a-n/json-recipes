@@ -2,7 +2,7 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Grapefruit Vinaigrette",
-  "labels": ["side dish", "salad"],
+  "labels": ["side dish"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,24 +10,34 @@
   },
   "ingredients": [
     {
-      "name": "pink grapefruit",
-      "quantity": "1",
-      "notes": "about 3 pounds, outer leaves removed, quartered through the core, core removed, quarters cut crosswise in half, finely shredded"
-    },
-    {
-      "name": "mild honey",
-      "quantity": "1 tsp"
-    },
-    {
-      "name": "salt",
-      "quantity": "1 pinch"
-    },
-    {
-      "name": "sherry vinegar or cider vinegar",
-      "quantity": "1.25 tbsp"
-    },
-    { "name": "sherry or cider vinegar", "quantity": "2 tablespoons" },
-    { "name": "olive oil", "quantity": "1 tbsp" }
+      "items": [
+        {
+          "name": "pink grapefruit",
+          "quantity": "1",
+          "notes": "about 3 pounds, outer leaves removed, quartered through the core, core removed, quarters cut crosswise in half, finely shredded"
+        },
+        {
+          "name": "mild honey",
+          "quantity": "1 tsp"
+        },
+        {
+          "name": "salt",
+          "quantity": "1 pinch"
+        },
+        {
+          "name": "sherry vinegar or cider vinegar",
+          "quantity": "1.25 tbsp"
+        },
+        {
+          "name": "sherry or cider vinegar",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "1 tbsp"
+        }
+      ]
+    }
   ],
   "instructions": [
     "Squeeze ½ of the grapefruit. Measure out ⅓ cup of juice and place it in a small saucepan. Add the honey or agave and bring to a boil over medium-high heat. Reduce to ¼ cup and remove from the heat. Whisk in salt, vinegar, and the oils.",

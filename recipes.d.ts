@@ -7,7 +7,7 @@ declare module "json-recipes" {
   }
 
   export interface IngredientGroup {
-    groupName: string;
+    groupName?: string;
     items: Ingredient[];
   }
 
@@ -22,7 +22,7 @@ declare module "json-recipes" {
     recipe_id: string;
     title: string;
     creator: Creator;
-    ingredients: (Ingredient | IngredientGroup)[];
+    ingredients: IngredientGroup[];
     instructions: string[];
     labels?: string[];
     yield: string;

@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "016",
   "title": "Kalikamaka Cocktail",
-  "labels": ["cocktail", "beverage", "tiki"],
+  "labels": ["cocktail", "beverage"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,35 +10,39 @@
   },
   "ingredients": [
     {
-      "name": "Sailor Jerry Spiced Rum",
-      "quantity": "1 oz"
-    },
-    {
-      "name": "Kraken Dark Rum",
-      "quantity": "1/2 oz"
-    },
-    {
-      "name": "mulled apple cider",
-      "quantity": "1 1/2 oz",
-      "notes": "Apple juice can be substituted in a pinch"
-    },
-    {
-      "name": "cinnamon syrup",
-      "quantity": "1/2 oz",
-      "notes": "See instructions for preparation"
-    },
-    {
-      "name": "fresh lime juice",
-      "quantity": "1/4 oz"
-    },
-    {
-      "name": "bitters",
-      "quantity": "1 dash"
-    },
-    {
-      "name": "cinnamon sticks",
-      "quantity": "",
-      "notes": "For garnish and cinnamon syrup preparation"
+      "items": [
+        {
+          "name": "Sailor Jerry Spiced Rum",
+          "quantity": "1 oz"
+        },
+        {
+          "name": "Kraken Dark Rum",
+          "quantity": "1/2 oz"
+        },
+        {
+          "name": "mulled apple cider",
+          "quantity": "1 1/2 oz",
+          "notes": "Apple juice can be substituted in a pinch"
+        },
+        {
+          "name": "cinnamon syrup",
+          "quantity": "1/2 oz",
+          "notes": "See instructions for preparation"
+        },
+        {
+          "name": "fresh lime juice",
+          "quantity": "1/4 oz"
+        },
+        {
+          "name": "bitters",
+          "quantity": "1 dash"
+        },
+        {
+          "name": "cinnamon sticks",
+          "quantity": "",
+          "notes": "For garnish and cinnamon syrup preparation"
+        }
+      ]
     }
   ],
   "instructions": [

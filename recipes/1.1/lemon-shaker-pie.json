@@ -12,11 +12,26 @@
     {
       "groupName": "For the filling",
       "items": [
-        { "name": "lemons, preferably Meyer", "quantity": "2" },
-        { "name": "sugar", "quantity": "1¾ cups" },
-        { "name": "eggs", "quantity": "3" },
-        { "name": "pastry or all-purpose flour", "quantity": "3 tablespoons" },
-        { "name": "salted butter, melted", "quantity": "6 tablespoons" }
+        {
+          "name": "lemons, preferably Meyer",
+          "quantity": "2"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1¾ cups"
+        },
+        {
+          "name": "eggs",
+          "quantity": "3"
+        },
+        {
+          "name": "pastry or all-purpose flour",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "salted butter, melted",
+          "quantity": "6 tablespoons"
+        }
       ]
     },
     {
@@ -26,14 +41,26 @@
           "name": "all-purpose flour, plus more for dusting",
           "quantity": "2½ cups"
         },
-        { "name": "salt", "quantity": "½ teaspoon" },
-        { "name": "sugar", "quantity": "¾ teaspoon" },
+        {
+          "name": "salt",
+          "quantity": "½ teaspoon"
+        },
+        {
+          "name": "sugar",
+          "quantity": "¾ teaspoon"
+        },
         {
           "name": "unsalted butter, very cold and cut into ¼-inch cubes",
           "quantity": "15 tablespoons (almost 2 sticks)"
         },
-        { "name": "ice-cold water", "quantity": "½ cup" },
-        { "name": "milk", "quantity": "1 tablespoon" }
+        {
+          "name": "ice-cold water",
+          "quantity": "½ cup"
+        },
+        {
+          "name": "milk",
+          "quantity": "1 tablespoon"
+        }
       ]
     }
   ],

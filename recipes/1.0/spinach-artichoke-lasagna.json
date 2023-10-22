@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "012",
   "title": "Spinach Artichoke Lasagna",
-  "labels": ["vegetarian", "dinner", "comfort food"],
+  "labels": ["main"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,48 +10,52 @@
   },
   "ingredients": [
     {
-      "name": "no-boil lasagna noodles",
-      "quantity": "9"
-    },
-    {
-      "name": "shredded fontina cheese or low-moisture, part-skim mozzarella",
-      "quantity": "2 cups (5 ounces)"
-    },
-    {
-      "name": "low fat cottage cheese",
-      "quantity": "2 cups (16 ounces)"
-    },
-    {
-      "name": "olive oil",
-      "quantity": "2 tablespoons"
-    },
-    {
-      "name": "red onion",
-      "quantity": "1 cup (chopped, about 1 smallish red onion)"
-    },
-    {
-      "name": "salt",
-      "quantity": "¼ teaspoon"
-    },
-    {
-      "name": "garlic",
-      "quantity": "4 cloves (pressed or minced)"
-    },
-    {
-      "name": "jarred or defrosted frozen artichokes",
-      "quantity": "1 cup (drained, quartered if necessary)"
-    },
-    {
-      "name": "baby spinach",
-      "quantity": "12 ounces"
-    },
-    {
-      "name": "black pepper",
-      "quantity": "to taste"
-    },
-    {
-      "name": "marinara sauce",
-      "quantity": "2 cups"
+      "items": [
+        {
+          "name": "no-boil lasagna noodles",
+          "quantity": "9"
+        },
+        {
+          "name": "shredded fontina cheese or low-moisture, part-skim mozzarella",
+          "quantity": "2 cups (5 ounces)"
+        },
+        {
+          "name": "low fat cottage cheese",
+          "quantity": "2 cups (16 ounces)"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "red onion",
+          "quantity": "1 cup (chopped, about 1 smallish red onion)"
+        },
+        {
+          "name": "salt",
+          "quantity": "¼ teaspoon"
+        },
+        {
+          "name": "garlic",
+          "quantity": "4 cloves (pressed or minced)"
+        },
+        {
+          "name": "jarred or defrosted frozen artichokes",
+          "quantity": "1 cup (drained, quartered if necessary)"
+        },
+        {
+          "name": "baby spinach",
+          "quantity": "12 ounces"
+        },
+        {
+          "name": "black pepper",
+          "quantity": "to taste"
+        },
+        {
+          "name": "marinara sauce",
+          "quantity": "2 cups"
+        }
+      ]
     }
   ],
   "instructions": [

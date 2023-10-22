@@ -1,7 +1,7 @@
 {
   "recipe_id": "67890",
   "title": "Old-Fashioned Pancakes",
-  "labels": ["breakfast", "comfort food", "vegetarian"],
+  "labels": ["main"],
   "schema_version": "1.0",
   "creator": {
     "user_id": "3",
@@ -10,32 +10,36 @@
   },
   "ingredients": [
     {
-      "name": "All-purpose flour",
-      "quantity": "1 1/2 cups"
-    },
-    {
-      "name": "White sugar",
-      "quantity": "1 tablespoon"
-    },
-    {
-      "name": "Baking powder",
-      "quantity": "3 1/2 teaspoons"
-    },
-    {
-      "name": "Salt",
-      "quantity": "1 teaspoon"
-    },
-    {
-      "name": "Egg",
-      "quantity": "1"
-    },
-    {
-      "name": "Milk",
-      "quantity": "1 1/4 cups"
-    },
-    {
-      "name": "Butter",
-      "quantity": "3 tablespoons, melted"
+      "items": [
+        {
+          "name": "All-purpose flour",
+          "quantity": "1 1/2 cups"
+        },
+        {
+          "name": "White sugar",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Baking powder",
+          "quantity": "3 1/2 teaspoons"
+        },
+        {
+          "name": "Salt",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "Egg",
+          "quantity": "1"
+        },
+        {
+          "name": "Milk",
+          "quantity": "1 1/4 cups"
+        },
+        {
+          "name": "Butter",
+          "quantity": "3 tablespoons, melted"
+        }
+      ]
     }
   ],
   "instructions": [

@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "011",
   "title": "Pear Vinaigrette",
-  "labels": ["side dish", "salad"],
+  "labels": ["side dish"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,36 +10,40 @@
   },
   "ingredients": [
     {
-      "name": "ripe pear",
-      "quantity": "1 (peeled, cored, and chopped)"
-    },
-    {
-      "name": "white wine",
-      "quantity": "½ cup"
-    },
-    {
-      "name": "garlic",
-      "quantity": "1 clove (chopped)"
-    },
-    {
-      "name": "Dijon mustard",
-      "quantity": "2 teaspoons"
-    },
-    {
-      "name": "white balsamic vinegar",
-      "quantity": "¼ cup"
-    },
-    {
-      "name": "ground black pepper",
-      "quantity": "1 teaspoon"
-    },
-    {
-      "name": "sea salt",
-      "quantity": "¼ teaspoon"
-    },
-    {
-      "name": "olive oil",
-      "quantity": "½ cup"
+      "items": [
+        {
+          "name": "ripe pear",
+          "quantity": "1 (peeled, cored, and chopped)"
+        },
+        {
+          "name": "white wine",
+          "quantity": "½ cup"
+        },
+        {
+          "name": "garlic",
+          "quantity": "1 clove (chopped)"
+        },
+        {
+          "name": "Dijon mustard",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "name": "white balsamic vinegar",
+          "quantity": "¼ cup"
+        },
+        {
+          "name": "ground black pepper",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "sea salt",
+          "quantity": "¼ teaspoon"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "½ cup"
+        }
+      ]
     }
   ],
   "instructions": [

@@ -1,5 +1,5 @@
 // typescript recipe schema
-// v1.2
+// v1.3
 
 interface Ingredient {
   name: string;
@@ -8,7 +8,7 @@ interface Ingredient {
 }
 
 interface IngredientGroup {
-  groupName: string; // Name of the group, e.g., "for the frosting"
+  groupName?: string; // Now this can be blank
   items: Ingredient[]; // Ingredients within this group
 }
 
@@ -23,7 +23,7 @@ interface Recipe {
   recipe_id: string;
   title: string;
   creator: Creator;
-  ingredients: Ingredient[] | IngredientGroup[]; // Can handle both grouped and ungrouped ingredients
+  ingredients: IngredientGroup[]; // Can handle only grouped ingredients
   instructions: string[];
   labels?: string[];
   yield: string;

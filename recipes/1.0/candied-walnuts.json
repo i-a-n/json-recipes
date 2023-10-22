@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "009",
   "title": "Candied Walnuts",
-  "labels": ["snack", "dessert"],
+  "labels": ["side dish"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,32 +10,36 @@
   },
   "ingredients": [
     {
-      "name": "packed brown sugar",
-      "quantity": "1/4 cup"
-    },
-    {
-      "name": "fine sea salt",
-      "quantity": "1 teaspoon"
-    },
-    {
-      "name": "ground cinnamon",
-      "quantity": "1 teaspoon"
-    },
-    {
-      "name": "ground cayenne",
-      "quantity": "1/4 teaspoon"
-    },
-    {
-      "name": "egg white",
-      "quantity": "1"
-    },
-    {
-      "name": "vanilla extract",
-      "quantity": "1 teaspoon"
-    },
-    {
-      "name": "raw walnut halves",
-      "quantity": "4 cups (12 ounces)"
+      "items": [
+        {
+          "name": "packed brown sugar",
+          "quantity": "1/4 cup"
+        },
+        {
+          "name": "fine sea salt",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "ground cinnamon",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "ground cayenne",
+          "quantity": "1/4 teaspoon"
+        },
+        {
+          "name": "egg white",
+          "quantity": "1"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "raw walnut halves",
+          "quantity": "4 cups (12 ounces)"
+        }
+      ]
     }
   ],
   "instructions": [

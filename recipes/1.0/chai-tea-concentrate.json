@@ -10,55 +10,59 @@
   },
   "ingredients": [
     {
-      "name": "water",
-      "quantity": "6 cups"
-    },
-    {
-      "name": "black tea bags",
-      "quantity": "12"
-    },
-    {
-      "name": "cinnamon stick",
-      "quantity": "1"
-    },
-    {
-      "name": "fresh ginger",
-      "quantity": "1 thumb-sized piece",
-      "notes": "thinly sliced"
-    },
-    {
-      "name": "orange zest",
-      "quantity": "1 tbsp"
-    },
-    {
-      "name": "cardamom pods or cardamom seeds",
-      "quantity": "10 pods or 60 seeds"
-    },
-    {
-      "name": "star anise pods",
-      "quantity": "3"
-    },
-    {
-      "name": "cloves",
-      "quantity": "20"
-    },
-    {
-      "name": "black peppercorns",
-      "quantity": "20"
-    },
-    {
-      "name": "freshly ground nutmeg",
-      "quantity": "1 tbsp"
-    },
-    {
-      "name": "brown sugar",
-      "quantity": "1 cup",
-      "notes": "adjust to taste"
-    },
-    {
-      "name": "vanilla bean or vanilla extract",
-      "quantity": "1 bean or 2 tbsp",
-      "notes": "add extract at the end if using"
+      "items": [
+        {
+          "name": "water",
+          "quantity": "6 cups"
+        },
+        {
+          "name": "black tea bags",
+          "quantity": "12"
+        },
+        {
+          "name": "cinnamon stick",
+          "quantity": "1"
+        },
+        {
+          "name": "fresh ginger",
+          "quantity": "1 thumb-sized piece",
+          "notes": "thinly sliced"
+        },
+        {
+          "name": "orange zest",
+          "quantity": "1 tbsp"
+        },
+        {
+          "name": "cardamom pods or cardamom seeds",
+          "quantity": "10 pods or 60 seeds"
+        },
+        {
+          "name": "star anise pods",
+          "quantity": "3"
+        },
+        {
+          "name": "cloves",
+          "quantity": "20"
+        },
+        {
+          "name": "black peppercorns",
+          "quantity": "20"
+        },
+        {
+          "name": "freshly ground nutmeg",
+          "quantity": "1 tbsp"
+        },
+        {
+          "name": "brown sugar",
+          "quantity": "1 cup",
+          "notes": "adjust to taste"
+        },
+        {
+          "name": "vanilla bean or vanilla extract",
+          "quantity": "1 bean or 2 tbsp",
+          "notes": "add extract at the end if using"
+        }
+      ]
     }
   ],
   "instructions": [

@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "022",
   "title": "Green Bean Casserole",
-  "labels": ["side dish", "vegetarian", "thanksgiving"],
+  "labels": ["side dish"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,62 +10,66 @@
   },
   "ingredients": [
     {
-      "name": "yellow onions",
-      "quantity": "2",
-      "notes": "medium, halved and thinly sliced"
-    },
-    {
-      "name": "all-purpose flour",
-      "quantity": "1/2 cup"
-    },
-    {
-      "name": "panko or plain breadcrumbs",
-      "quantity": "2 tablespoons"
-    },
-    {
-      "name": "table salt",
-      "quantity": "1 tbso"
-    },
-    {
-      "name": "Freshly ground black pepper",
-      "quantity": "to taste"
-    },
-    {
-      "name": "Canola, safflower, peanut or other high-heat oil",
-      "quantity": "as needed",
-      "notes": "for deep-frying onions"
-    },
-    {
-      "name": "butter",
-      "quantity": "3 tablespoons"
-    },
-    {
-      "name": "mushrooms",
-      "quantity": "12 ounces",
-      "notes": "thinly sliced or coarsely chopped"
-    },
-    {
-      "name": "fresh nutmeg",
-      "quantity": "Few gratings",
-      "notes": "optional"
-    },
-    {
-      "name": "garlic cloves",
-      "quantity": "2",
-      "notes": "minced"
-    },
-    {
-      "name": "vegetable or chicken broth",
-      "quantity": "1 1/2 cups"
-    },
-    {
-      "name": "heavy cream",
-      "quantity": "1/2 cup"
-    },
-    {
-      "name": "green beans",
-      "quantity": "1 to 1 1/2 pounds",
-      "notes": "trimmed and halved"
+      "items": [
+        {
+          "name": "yellow onions",
+          "quantity": "2",
+          "notes": "medium, halved and thinly sliced"
+        },
+        {
+          "name": "all-purpose flour",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "panko or plain breadcrumbs",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "table salt",
+          "quantity": "1 tbso"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "quantity": "to taste"
+        },
+        {
+          "name": "Canola, safflower, peanut or other high-heat oil",
+          "quantity": "as needed",
+          "notes": "for deep-frying onions"
+        },
+        {
+          "name": "butter",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "mushrooms",
+          "quantity": "12 ounces",
+          "notes": "thinly sliced or coarsely chopped"
+        },
+        {
+          "name": "fresh nutmeg",
+          "quantity": "Few gratings",
+          "notes": "optional"
+        },
+        {
+          "name": "garlic cloves",
+          "quantity": "2",
+          "notes": "minced"
+        },
+        {
+          "name": "vegetable or chicken broth",
+          "quantity": "1 1/2 cups"
+        },
+        {
+          "name": "heavy cream",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "green beans",
+          "quantity": "1 to 1 1/2 pounds",
+          "notes": "trimmed and halved"
+        }
+      ]
     }
   ],
   "instructions": [

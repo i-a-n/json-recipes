@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "009",
   "title": "Mandarin Chicken Salad",
-  "labels": ["healthy", "dinner", "salad"],
+  "labels": ["main"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,68 +10,72 @@
   },
   "ingredients": [
     {
-      "name": "finely chopped romaine or iceberg lettuce",
-      "quantity": "3 cups"
-    },
-    {
-      "name": "shredded red cabbage",
-      "quantity": "2 cups"
-    },
-    {
-      "name": "shredded chicken",
-      "quantity": "2 cups"
-    },
-    {
-      "name": "jarred mandarin oranges, drained",
-      "quantity": "1/2 cup"
-    },
-    {
-      "name": "instant ramen, crushed (flavor packet discarded)",
-      "quantity": "1 package"
-    },
-    {
-      "name": "shredded carrot",
-      "quantity": "1/2 cup"
-    },
-    {
-      "name": "sliced green onions",
-      "quantity": "1/3 cup"
-    },
-    {
-      "name": "sliced almonds",
-      "quantity": "1/4 cup"
-    },
-    {
-      "name": "rice wine vinegar",
-      "quantity": "3 tbsp"
-    },
-    {
-      "name": "honey",
-      "quantity": "2 tbsp"
-    },
-    {
-      "name": "sesame oil",
-      "quantity": "1 tbsp"
-    },
-    {
-      "name": "hoisin sauce",
-      "quantity": "1 tbsp"
-    },
-    {
-      "name": "soy sauce",
-      "quantity": "2 tbsp"
-    },
-    {
-      "name": "minced ginger",
-      "quantity": "1 tsp"
-    },
-    {
-      "name": "garlic, minced",
-      "quantity": "1 clove"
-    },
-    {
-      "name": "vegetable oil",
-      "quantity": "1/4 cup"
+      "items": [
+        {
+          "name": "finely chopped romaine or iceberg lettuce",
+          "quantity": "3 cups"
+        },
+        {
+          "name": "shredded red cabbage",
+          "quantity": "2 cups"
+        },
+        {
+          "name": "shredded chicken",
+          "quantity": "2 cups"
+        },
+        {
+          "name": "jarred mandarin oranges, drained",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "instant ramen, crushed (flavor packet discarded)",
+          "quantity": "1 package"
+        },
+        {
+          "name": "shredded carrot",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "sliced green onions",
+          "quantity": "1/3 cup"
+        },
+        {
+          "name": "sliced almonds",
+          "quantity": "1/4 cup"
+        },
+        {
+          "name": "rice wine vinegar",
+          "quantity": "3 tbsp"
+        },
+        {
+          "name": "honey",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "sesame oil",
+          "quantity": "1 tbsp"
+        },
+        {
+          "name": "hoisin sauce",
+          "quantity": "1 tbsp"
+        },
+        {
+          "name": "soy sauce",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "minced ginger",
+          "quantity": "1 tsp"
+        },
+        {
+          "name": "garlic, minced",
+          "quantity": "1 clove"
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": "1/4 cup"
+        }
+      ]
     }
   ],
   "instructions": [

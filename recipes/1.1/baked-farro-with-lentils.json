@@ -2,7 +2,7 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Baked Farro with Lentils",
-  "labels": ["healthy", "vegan", "dinner"],
+  "labels": ["main"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,54 +10,58 @@
   },
   "ingredients": [
     {
-      "name": "farro",
-      "quantity": "1 cup"
-    },
-    {
-      "name": "dried green or brown lentils",
-      "quantity": "½ cup"
-    },
-    {
-      "name": "extra-virgin olive oil",
-      "quantity": "2 tablespoons",
-      "notes": "plus more for drizzling"
-    },
-    {
-      "name": "large yellow onion",
-      "quantity": "1",
-      "notes": "coarsely chopped"
-    },
-    {
-      "name": "Kosher salt",
-      "quantity": "",
-      "notes": "to taste"
-    },
-    {
-      "name": "black pepper",
-      "quantity": "",
-      "notes": "to taste"
-    },
-    {
-      "name": "garlic cloves",
-      "quantity": "4",
-      "notes": "thinly sliced"
-    },
-    {
-      "name": "red-pepper flakes",
-      "quantity": "1 teaspoon"
-    },
-    {
-      "name": "tomato purée or your favorite tomato sauce",
-      "quantity": "28 ounces"
-    },
-    {
-      "name": "sprigs of oregano, thyme, rosemary, or basil, or dried",
-      "quantity": "2 sprigs",
-      "notes": "optional, or ½ teaspoon dried"
-    },
-    {
-      "name": "block feta",
-      "quantity": "8 ounces"
+      "items": [
+        {
+          "name": "farro",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "dried green or brown lentils",
+          "quantity": "½ cup"
+        },
+        {
+          "name": "extra-virgin olive oil",
+          "quantity": "2 tablespoons",
+          "notes": "plus more for drizzling"
+        },
+        {
+          "name": "large yellow onion",
+          "quantity": "1",
+          "notes": "coarsely chopped"
+        },
+        {
+          "name": "Kosher salt",
+          "quantity": "",
+          "notes": "to taste"
+        },
+        {
+          "name": "black pepper",
+          "quantity": "",
+          "notes": "to taste"
+        },
+        {
+          "name": "garlic cloves",
+          "quantity": "4",
+          "notes": "thinly sliced"
+        },
+        {
+          "name": "red-pepper flakes",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "tomato purée or your favorite tomato sauce",
+          "quantity": "28 ounces"
+        },
+        {
+          "name": "sprigs of oregano, thyme, rosemary, or basil, or dried",
+          "quantity": "2 sprigs",
+          "notes": "optional, or ½ teaspoon dried"
+        },
+        {
+          "name": "block feta",
+          "quantity": "8 ounces"
+        }
+      ]
     }
   ],
   "instructions": [

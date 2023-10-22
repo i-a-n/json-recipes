@@ -12,27 +12,63 @@
     {
       "groupName": "For The Topping",
       "items": [
-        { "name": "unsalted butter", "quantity": "4 tablespoons (½ stick)" },
-        { "name": "brown sugar", "quantity": "¾ cup" },
-        { "name": "fresh cranberries", "quantity": "9 ounces (2⅔ cups)" },
-        { "name": "fresh orange juice", "quantity": "¼ cup" }
+        {
+          "name": "unsalted butter",
+          "quantity": "4 tablespoons (½ stick)"
+        },
+        {
+          "name": "brown sugar",
+          "quantity": "¾ cup"
+        },
+        {
+          "name": "fresh cranberries",
+          "quantity": "9 ounces (2⅔ cups)"
+        },
+        {
+          "name": "fresh orange juice",
+          "quantity": "¼ cup"
+        }
       ]
     },
     {
       "groupName": "For The Batter",
       "items": [
-        { "name": "all-purpose flour", "quantity": "1½ cups" },
-        { "name": "baking powder", "quantity": "2 teaspoons" },
-        { "name": "salt", "quantity": "¼ teaspoon" },
+        {
+          "name": "all-purpose flour",
+          "quantity": "1½ cups"
+        },
+        {
+          "name": "baking powder",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "name": "salt",
+          "quantity": "¼ teaspoon"
+        },
         {
           "name": "unsalted butter, at room temperature",
           "quantity": "8 tablespoons (1 stick)"
         },
-        { "name": "sugar", "quantity": "1 cup" },
-        { "name": "vanilla extract", "quantity": "1 teaspoon" },
-        { "name": "eggs, separated", "quantity": "2" },
-        { "name": "whole milk", "quantity": "½ cup" },
-        { "name": "cream of tartar", "quantity": "¼ teaspoon" }
+        {
+          "name": "sugar",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "eggs, separated",
+          "quantity": "2"
+        },
+        {
+          "name": "whole milk",
+          "quantity": "½ cup"
+        },
+        {
+          "name": "cream of tartar",
+          "quantity": "¼ teaspoon"
+        }
       ]
     }
   ],

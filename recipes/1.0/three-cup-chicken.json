@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "021",
   "title": "Three-Cup Chicken",
-  "labels": ["dinner", "international"],
+  "labels": ["main"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,48 +10,52 @@
   },
   "ingredients": [
     {
-      "name": "sesame oil",
-      "quantity": "3 tablespoons"
-    },
-    {
-      "name": "ginger",
-      "quantity": "1 piece",
-      "notes": "2-to-3-inch piece, peeled and sliced into coins, approximately 12"
-    },
-    {
-      "name": "garlic cloves",
-      "quantity": "12",
-      "notes": "peeled"
-    },
-    {
-      "name": "scallions",
-      "quantity": "4",
-      "notes": "whole, trimmed and cut into 1-inch pieces"
-    },
-    {
-      "name": "dried red peppers or red-pepper flakes",
-      "quantity": "3 or 1 teaspoon"
-    },
-    {
-      "name": "chicken thighs",
-      "quantity": "2 pounds",
-      "notes": "boneless or bone-in, cut into bite-size pieces"
-    },
-    {
-      "name": "unrefined or light brown sugar",
-      "quantity": "1 tablespoon"
-    },
-    {
-      "name": "rice wine",
-      "quantity": "½ cup"
-    },
-    {
-      "name": "light soy sauce",
-      "quantity": "¼ cup"
-    },
-    {
-      "name": "fresh Thai basil leaves or regular basil leaves",
-      "quantity": "2 cups"
+      "items": [
+        {
+          "name": "sesame oil",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "ginger",
+          "quantity": "1 piece",
+          "notes": "2-to-3-inch piece, peeled and sliced into coins, approximately 12"
+        },
+        {
+          "name": "garlic cloves",
+          "quantity": "12",
+          "notes": "peeled"
+        },
+        {
+          "name": "scallions",
+          "quantity": "4",
+          "notes": "whole, trimmed and cut into 1-inch pieces"
+        },
+        {
+          "name": "dried red peppers or red-pepper flakes",
+          "quantity": "3 or 1 teaspoon"
+        },
+        {
+          "name": "chicken thighs",
+          "quantity": "2 pounds",
+          "notes": "boneless or bone-in, cut into bite-size pieces"
+        },
+        {
+          "name": "unrefined or light brown sugar",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "rice wine",
+          "quantity": "½ cup"
+        },
+        {
+          "name": "light soy sauce",
+          "quantity": "¼ cup"
+        },
+        {
+          "name": "fresh Thai basil leaves or regular basil leaves",
+          "quantity": "2 cups"
+        }
+      ]
     }
   ],
   "instructions": [

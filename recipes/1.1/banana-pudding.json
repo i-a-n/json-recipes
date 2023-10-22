@@ -2,7 +2,7 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id-4",
   "title": "Banana Pudding",
-  "labels": ["dessert", "comfort food"],
+  "labels": ["dessert"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,30 +10,34 @@
   },
   "ingredients": [
     {
-      "name": "sweetened condensed milk",
-      "quantity": "1 (14-ounce) can"
-    },
-    {
-      "name": "ice-cold water",
-      "quantity": "1½ cups"
-    },
-    {
-      "name": "instant vanilla pudding mix",
-      "quantity": "1 (3.4-ounce) package"
-    },
-    {
-      "name": "cold heavy cream",
-      "quantity": "3 cups"
-    },
-    {
-      "name": "vanilla wafer cookies",
-      "quantity": "1 (11-ounce) box",
-      "notes": "such as Nilla"
-    },
-    {
-      "name": "ripe bananas",
-      "quantity": "4 to 5",
-      "notes": "sliced"
+      "items": [
+        {
+          "name": "sweetened condensed milk",
+          "quantity": "1 (14-ounce) can"
+        },
+        {
+          "name": "ice-cold water",
+          "quantity": "1½ cups"
+        },
+        {
+          "name": "instant vanilla pudding mix",
+          "quantity": "1 (3.4-ounce) package"
+        },
+        {
+          "name": "cold heavy cream",
+          "quantity": "3 cups"
+        },
+        {
+          "name": "vanilla wafer cookies",
+          "quantity": "1 (11-ounce) box",
+          "notes": "such as Nilla"
+        },
+        {
+          "name": "ripe bananas",
+          "quantity": "4 to 5",
+          "notes": "sliced"
+        }
+      ]
     }
   ],
   "instructions": [

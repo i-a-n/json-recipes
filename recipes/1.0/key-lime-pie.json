@@ -10,40 +10,44 @@
   },
   "ingredients": [
     {
-      "name": "graham cracker crumbs",
-      "quantity": "1½ cups"
-    },
-    {
-      "name": "granulated sugar",
-      "quantity": "2 tablespoons"
-    },
-    {
-      "name": "kosher salt",
-      "quantity": "1 teaspoon"
-    },
-    {
-      "name": "unsalted butter, melted and cooled",
-      "quantity": "4 tablespoons"
-    },
-    {
-      "name": "medium limes",
-      "quantity": "6"
-    },
-    {
-      "name": "sweetened condensed milk (14 ounces)",
-      "quantity": "1 can"
-    },
-    {
-      "name": "large egg yolks",
-      "quantity": "4"
-    },
-    {
-      "name": "cold heavy whipping cream",
-      "quantity": "1 cup"
-    },
-    {
-      "name": "sour cream",
-      "quantity": "¼ cup"
+      "items": [
+        {
+          "name": "graham cracker crumbs",
+          "quantity": "1½ cups"
+        },
+        {
+          "name": "granulated sugar",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "kosher salt",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "unsalted butter, melted and cooled",
+          "quantity": "4 tablespoons"
+        },
+        {
+          "name": "medium limes",
+          "quantity": "6"
+        },
+        {
+          "name": "sweetened condensed milk (14 ounces)",
+          "quantity": "1 can"
+        },
+        {
+          "name": "large egg yolks",
+          "quantity": "4"
+        },
+        {
+          "name": "cold heavy whipping cream",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "sour cream",
+          "quantity": "¼ cup"
+        }
+      ]
     }
   ],
   "instructions": [

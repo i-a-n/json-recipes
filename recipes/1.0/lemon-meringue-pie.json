@@ -10,72 +10,76 @@
   },
   "ingredients": [
     {
-      "name": "unbleached all-purpose flour",
-      "quantity": "2 cups"
-    },
-    {
-      "name": "salt",
-      "quantity": "⅜ teaspoon"
-    },
-    {
-      "name": "sugar",
-      "quantity": "⅛ teaspoon"
-    },
-    {
-      "name": "salted butter, cut in several pieces",
-      "quantity": "5 tablespoons"
-    },
-    {
-      "name": "unsalted butter, cut in several pieces",
-      "quantity": "6 ½ tablespoons"
-    },
-    {
-      "name": "solid vegetable shortening",
-      "quantity": "3 tablespoons"
-    },
-    {
-      "name": "ice water",
-      "quantity": "3 tablespoons (a bit more or less may be needed)"
-    },
-    {
-      "name": "Meyer lemons or other large lemons",
-      "quantity": "2"
-    },
-    {
-      "name": "eggs",
-      "quantity": "2"
-    },
-    {
-      "name": "egg yolks",
-      "quantity": "3"
-    },
-    {
-      "name": "sugar",
-      "quantity": "6 tablespoons"
-    },
-    {
-      "name": "salted butter, cut in 3 pieces",
-      "quantity": "3 tablespoons"
-    },
-    {
-      "name": "unsalted butter, cut in 3 pieces",
-      "quantity": "3 tablespoons"
-    },
-    {
-      "name": "egg whites, at warm room temperature",
-      "quantity": "3"
-    },
-    {
-      "name": "cream of tartar",
-      "quantity": "¼ teaspoon"
-    },
-    {
-      "name": "superfine sugar",
-      "quantity": "6 tablespoons"
-    },
-    {
-      "name": "vanilla extract",
-      "quantity": "½ teaspoon"
+      "items": [
+        {
+          "name": "unbleached all-purpose flour",
+          "quantity": "2 cups"
+        },
+        {
+          "name": "salt",
+          "quantity": "⅜ teaspoon"
+        },
+        {
+          "name": "sugar",
+          "quantity": "⅛ teaspoon"
+        },
+        {
+          "name": "salted butter, cut in several pieces",
+          "quantity": "5 tablespoons"
+        },
+        {
+          "name": "unsalted butter, cut in several pieces",
+          "quantity": "6 ½ tablespoons"
+        },
+        {
+          "name": "solid vegetable shortening",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "ice water",
+          "quantity": "3 tablespoons (a bit more or less may be needed)"
+        },
+        {
+          "name": "Meyer lemons or other large lemons",
+          "quantity": "2"
+        },
+        {
+          "name": "eggs",
+          "quantity": "2"
+        },
+        {
+          "name": "egg yolks",
+          "quantity": "3"
+        },
+        {
+          "name": "sugar",
+          "quantity": "6 tablespoons"
+        },
+        {
+          "name": "salted butter, cut in 3 pieces",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "unsalted butter, cut in 3 pieces",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "egg whites, at warm room temperature",
+          "quantity": "3"
+        },
+        {
+          "name": "cream of tartar",
+          "quantity": "¼ teaspoon"
+        },
+        {
+          "name": "superfine sugar",
+          "quantity": "6 tablespoons"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": "½ teaspoon"
+        }
+      ]
     }
   ],
   "instructions": [

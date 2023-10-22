@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "006",
   "title": "Nancy's Chopped Salad",
-  "labels": ["healthy", "vegetarian", "dinner", "salad"],
+  "labels": ["main"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,83 +10,87 @@
   },
   "ingredients": [
     {
-      "name": "chickpeas",
-      "quantity": "1 (15-ounce) can or 1 3/4 cups cooked",
-      "notes": "drained"
-    },
-    {
-      "name": "small red onion",
-      "quantity": "1",
-      "preparation": "peeled and sliced into paper-thin rings"
-    },
-    {
-      "name": "provolone",
-      "quantity": "1/2 pound",
-      "notes": "see Note about varieties, sliced 1/8-inch thick then cut into 1/4-inch ribbons"
-    },
-    {
-      "name": "salami",
-      "quantity": "1/2 pound",
-      "preparation": "peeled, sliced 1/8-inch thick then cut into 1/4-inch ribbons"
-    },
-    {
-      "name": "pickled pepperoncini",
-      "quantity": "4 medium or 8 small",
-      "preparation": "sliced into rings"
-    },
-    {
-      "name": "cherry tomatoes",
-      "quantity": "3/4 pound"
-    },
-    {
-      "name": "sea salt",
-      "quantity": "for seasoning"
-    },
-    {
-      "name": "iceberg lettuce",
-      "quantity": "1 head",
-      "notes": "see Note about size, halved, cored, and cut in 1/2-inch ribbons"
-    },
-    {
-      "name": "radicchio",
-      "quantity": "1 head",
-      "preparation": "halved, cored and cut in 1/4-inch ribbons"
-    },
-    {
-      "name": "dried oregano",
-      "quantity": "2 tablespoons",
-      "notes": "for garnish (optional)"
-    },
-    {
-      "name": "garlic",
-      "quantity": "4 cloves"
-    },
-    {
-      "name": "dried oregano",
-      "quantity": "1 to 2 tablespoons",
-      "notes": "Nancy recommends 2; adjust according to preference"
-    },
-    {
-      "name": "kosher salt",
-      "quantity": "2 teaspoons"
-    },
-    {
-      "name": "ground black pepper",
-      "quantity": "to taste"
-    },
-    {
-      "name": "lemon juice",
-      "quantity": "2 tablespoons",
-      "notes": "or juice of 1 lemon"
-    },
-    {
-      "name": "red wine vinegar",
-      "quantity": "1/4 cup"
-    },
-    {
-      "name": "olive oil",
-      "quantity": "1/4 cup",
-      "notes": "ideally extra-virgin"
+      "items": [
+        {
+          "name": "chickpeas",
+          "quantity": "1 (15-ounce) can or 1 3/4 cups cooked",
+          "notes": "drained"
+        },
+        {
+          "name": "small red onion",
+          "quantity": "1",
+          "preparation": "peeled and sliced into paper-thin rings"
+        },
+        {
+          "name": "provolone",
+          "quantity": "1/2 pound",
+          "notes": "see Note about varieties, sliced 1/8-inch thick then cut into 1/4-inch ribbons"
+        },
+        {
+          "name": "salami",
+          "quantity": "1/2 pound",
+          "preparation": "peeled, sliced 1/8-inch thick then cut into 1/4-inch ribbons"
+        },
+        {
+          "name": "pickled pepperoncini",
+          "quantity": "4 medium or 8 small",
+          "preparation": "sliced into rings"
+        },
+        {
+          "name": "cherry tomatoes",
+          "quantity": "3/4 pound"
+        },
+        {
+          "name": "sea salt",
+          "quantity": "for seasoning"
+        },
+        {
+          "name": "iceberg lettuce",
+          "quantity": "1 head",
+          "notes": "see Note about size, halved, cored, and cut in 1/2-inch ribbons"
+        },
+        {
+          "name": "radicchio",
+          "quantity": "1 head",
+          "preparation": "halved, cored and cut in 1/4-inch ribbons"
+        },
+        {
+          "name": "dried oregano",
+          "quantity": "2 tablespoons",
+          "notes": "for garnish (optional)"
+        },
+        {
+          "name": "garlic",
+          "quantity": "4 cloves"
+        },
+        {
+          "name": "dried oregano",
+          "quantity": "1 to 2 tablespoons",
+          "notes": "Nancy recommends 2; adjust according to preference"
+        },
+        {
+          "name": "kosher salt",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "name": "ground black pepper",
+          "quantity": "to taste"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "2 tablespoons",
+          "notes": "or juice of 1 lemon"
+        },
+        {
+          "name": "red wine vinegar",
+          "quantity": "1/4 cup"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "1/4 cup",
+          "notes": "ideally extra-virgin"
+        }
+      ]
     }
   ],
   "instructions": [

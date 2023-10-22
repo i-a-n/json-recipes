@@ -2,7 +2,7 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Lemon Pasta",
-  "labels": ["vegetarian", "dinner"],
+  "labels": ["main"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,70 +10,74 @@
   },
   "ingredients": [
     {
-      "name": "Kosher salt",
-      "quantity": "",
-      "notes": "as needed"
-    },
-    {
-      "name": "regular or whole-wheat fusilli or other short, sturdy pasta",
-      "quantity": "8 ounces"
-    },
-    {
-      "name": "cooked chickpeas",
-      "quantity": "2 cups",
-      "notes": "home-cooked or canned, lightly mashed"
-    },
-    {
-      "name": "extra-virgin olive oil",
-      "quantity": "¼ cup",
-      "notes": "plus more for drizzling"
-    },
-    {
-      "name": "garlic cloves",
-      "quantity": "2",
-      "notes": "smashed and peeled"
-    },
-    {
-      "name": "onion",
-      "quantity": "½",
-      "notes": "diced"
-    },
-    {
-      "name": "finely chopped fresh rosemary leaves",
-      "quantity": "1 tablespoon"
-    },
-    {
-      "name": "red pepper flakes",
-      "quantity": "Pinch",
-      "notes": "plus more as needed"
-    },
-    {
-      "name": "chickpea cooking liquid, vegetable stock, or water",
-      "quantity": "1½ cups",
-      "notes": "If using homemade chickpeas, the cooking liquid can be used; do not use the liquid from the can."
-    },
-    {
-      "name": "fresh parsley leaves",
-      "quantity": "3 cups",
-      "notes": "from 1 large bunch"
-    },
-    {
-      "name": "grated Parmigiano-Reggiano",
-      "quantity": "⅔ cup",
-      "notes": "plus more for serving"
-    },
-    {
-      "name": "unsalted butter",
-      "quantity": "1 tablespoon"
-    },
-    {
-      "name": "finely grated lemon zest",
-      "quantity": "½ lemon"
-    },
-    {
-      "name": "Ground black pepper",
-      "quantity": "",
-      "notes": "to taste"
+      "items": [
+        {
+          "name": "Kosher salt",
+          "quantity": "",
+          "notes": "as needed"
+        },
+        {
+          "name": "regular or whole-wheat fusilli or other short, sturdy pasta",
+          "quantity": "8 ounces"
+        },
+        {
+          "name": "cooked chickpeas",
+          "quantity": "2 cups",
+          "notes": "home-cooked or canned, lightly mashed"
+        },
+        {
+          "name": "extra-virgin olive oil",
+          "quantity": "¼ cup",
+          "notes": "plus more for drizzling"
+        },
+        {
+          "name": "garlic cloves",
+          "quantity": "2",
+          "notes": "smashed and peeled"
+        },
+        {
+          "name": "onion",
+          "quantity": "½",
+          "notes": "diced"
+        },
+        {
+          "name": "finely chopped fresh rosemary leaves",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "red pepper flakes",
+          "quantity": "Pinch",
+          "notes": "plus more as needed"
+        },
+        {
+          "name": "chickpea cooking liquid, vegetable stock, or water",
+          "quantity": "1½ cups",
+          "notes": "If using homemade chickpeas, the cooking liquid can be used; do not use the liquid from the can."
+        },
+        {
+          "name": "fresh parsley leaves",
+          "quantity": "3 cups",
+          "notes": "from 1 large bunch"
+        },
+        {
+          "name": "grated Parmigiano-Reggiano",
+          "quantity": "⅔ cup",
+          "notes": "plus more for serving"
+        },
+        {
+          "name": "unsalted butter",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "finely grated lemon zest",
+          "quantity": "½ lemon"
+        },
+        {
+          "name": "Ground black pepper",
+          "quantity": "",
+          "notes": "to taste"
+        }
+      ]
     }
   ],
   "instructions": [

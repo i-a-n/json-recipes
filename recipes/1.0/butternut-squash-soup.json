@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "008",
   "title": "Butternut Squash Soup",
-  "labels": ["vegetarian", "healthy", "comfort food", "soup"],
+  "labels": ["main"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,40 +10,44 @@
   },
   "ingredients": [
     {
-      "name": "butternut squash, peeled and cubed",
-      "quantity": "4 pounds"
-    },
-    {
-      "name": "small yellow onion, diced",
-      "quantity": "1"
-    },
-    {
-      "name": "Honeycrisp apples, peeled and diced",
-      "quantity": "2 apples"
-    },
-    {
-      "name": "curry powder",
-      "quantity": "1 tbs"
-    },
-    {
-      "name": "garlic cloves, minced",
-      "quantity": "4 cloves"
-    },
-    {
-      "name": "cayenne pepper",
-      "quantity": "1/4 tsp"
-    },
-    {
-      "name": "kosher salt",
-      "quantity": "2 tsp"
-    },
-    {
-      "name": "vegetable stock",
-      "quantity": "4 cups"
-    },
-    {
-      "name": "full-fat coconut milk",
-      "quantity": "1 can (13.5 oz)"
+      "items": [
+        {
+          "name": "butternut squash, peeled and cubed",
+          "quantity": "4 pounds"
+        },
+        {
+          "name": "small yellow onion, diced",
+          "quantity": "1"
+        },
+        {
+          "name": "Honeycrisp apples, peeled and diced",
+          "quantity": "2 apples"
+        },
+        {
+          "name": "curry powder",
+          "quantity": "1 tbs"
+        },
+        {
+          "name": "garlic cloves, minced",
+          "quantity": "4 cloves"
+        },
+        {
+          "name": "cayenne pepper",
+          "quantity": "1/4 tsp"
+        },
+        {
+          "name": "kosher salt",
+          "quantity": "2 tsp"
+        },
+        {
+          "name": "vegetable stock",
+          "quantity": "4 cups"
+        },
+        {
+          "name": "full-fat coconut milk",
+          "quantity": "1 can (13.5 oz)"
+        }
+      ]
     }
   ],
   "instructions": [

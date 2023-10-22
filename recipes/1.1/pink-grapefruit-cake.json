@@ -12,22 +12,55 @@
     {
       "groupName": "For the cake",
       "items": [
-        { "name": "AP flour", "quantity": "2 cups (250 g)" },
-        { "name": "baking powder", "quantity": "1 3/4 teaspoons" },
-        { "name": "salt", "quantity": "1 teaspoon" },
-        { "name": "granulated sugar", "quantity": "1 2/3 cups (367 g)" },
-        { "name": "large eggs", "quantity": "2" },
-        { "name": "milk", "quantity": "1 cup" },
-        { "name": "oil", "quantity": "3/4 cup" },
-        { "name": "grated grapefruit zest", "quantity": "1 tablespoon" },
-        { "name": "vanilla extract", "quantity": "1 teaspoon" }
+        {
+          "name": "AP flour",
+          "quantity": "2 cups (250 g)"
+        },
+        {
+          "name": "baking powder",
+          "quantity": "1 3/4 teaspoons"
+        },
+        {
+          "name": "salt",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "granulated sugar",
+          "quantity": "1 2/3 cups (367 g)"
+        },
+        {
+          "name": "large eggs",
+          "quantity": "2"
+        },
+        {
+          "name": "milk",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "oil",
+          "quantity": "3/4 cup"
+        },
+        {
+          "name": "grated grapefruit zest",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": "1 teaspoon"
+        }
       ]
     },
     {
       "groupName": "For the syrup",
       "items": [
-        { "name": "grapefruit juice", "quantity": "1 cup" },
-        { "name": "sugar", "quantity": "2/3 cup (150 g)" }
+        {
+          "name": "grapefruit juice",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "sugar",
+          "quantity": "2/3 cup (150 g)"
+        }
       ]
     }
   ],

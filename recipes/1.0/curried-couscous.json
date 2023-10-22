@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "008",
   "title": "Curried Couscous",
-  "labels": ["vegetarian", "vegan", "side dish", "international"],
+  "labels": ["vegan", "side dish"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,64 +10,68 @@
   },
   "ingredients": [
     {
-      "name": "Israeli couscous or orzo",
-      "quantity": "1 box (8oz)"
-    },
-    {
-      "name": "cauliflower",
-      "quantity": "1 head, florets broken into pieces"
-    },
-    {
-      "name": "curry powder",
-      "quantity": "1 tablespoon"
-    },
-    {
-      "name": "turmeric",
-      "quantity": "1 tablespoon"
-    },
-    {
-      "name": "ground cumin",
-      "quantity": "1 tablespoon"
-    },
-    {
-      "name": "ground coriander",
-      "quantity": "1 tablespoon"
-    },
-    {
-      "name": "salt",
-      "quantity": "1/2 tablespoon"
-    },
-    {
-      "name": "cayenne pepper",
-      "quantity": "1 teaspoon"
-    },
-    {
-      "name": "brown sugar",
-      "quantity": "3 tablespoons"
-    },
-    {
-      "name": "oil",
-      "quantity": "3 tablespoons"
-    },
-    {
-      "name": "small carrots",
-      "quantity": "2, peeled, small dice"
-    },
-    {
-      "name": "vegenaise (or mayonnaise)",
-      "quantity": "1 cup"
-    },
-    {
-      "name": "cilantro",
-      "quantity": "1/2 bunch, chopped"
-    },
-    {
-      "name": "lime",
-      "quantity": "1/2, juiced"
-    },
-    {
-      "name": "cayenne, sugar, and salt",
-      "quantity": "to taste"
+      "items": [
+        {
+          "name": "Israeli couscous or orzo",
+          "quantity": "1 box (8oz)"
+        },
+        {
+          "name": "cauliflower",
+          "quantity": "1 head, florets broken into pieces"
+        },
+        {
+          "name": "curry powder",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "turmeric",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "ground cumin",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "ground coriander",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "salt",
+          "quantity": "1/2 tablespoon"
+        },
+        {
+          "name": "cayenne pepper",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "brown sugar",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "oil",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "small carrots",
+          "quantity": "2, peeled, small dice"
+        },
+        {
+          "name": "vegenaise (or mayonnaise)",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "cilantro",
+          "quantity": "1/2 bunch, chopped"
+        },
+        {
+          "name": "lime",
+          "quantity": "1/2, juiced"
+        },
+        {
+          "name": "cayenne, sugar, and salt",
+          "quantity": "to taste"
+        }
+      ]
     }
   ],
   "instructions": [

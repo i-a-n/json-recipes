@@ -2,7 +2,7 @@
   "recipe_id": "12345",
   "schema_version": "1.0",
   "title": "Homemade Butter Tortillas",
-  "labels": ["side dish", "vegetarian", "international"],
+  "labels": ["side dish"],
   "creator": {
     "user_id": "3",
     "username": "ian",
@@ -10,24 +10,28 @@
   },
   "ingredients": [
     {
-      "name": "All-purpose flour",
-      "quantity": "3 cups"
-    },
-    {
-      "name": "Warm water",
-      "quantity": "1 cup"
-    },
-    {
-      "name": "Butter",
-      "quantity": "1/2 cup"
-    },
-    {
-      "name": "Baking powder",
-      "quantity": "1 tbsp"
-    },
-    {
-      "name": "Salt",
-      "quantity": "2 tsp"
+      "items": [
+        {
+          "name": "All-purpose flour",
+          "quantity": "3 cups"
+        },
+        {
+          "name": "Warm water",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Butter",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Baking powder",
+          "quantity": "1 tbsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": "2 tsp"
+        }
+      ]
     }
   ],
   "instructions": [

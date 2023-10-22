@@ -2,7 +2,7 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Mushroom and Potato Paprikash",
-  "labels": ["dinner", "international", "vegetarian"],
+  "labels": ["main"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,78 +10,82 @@
   },
   "ingredients": [
     {
-      "name": "vegetable oil",
-      "quantity": "¼ cup",
-      "notes": "plus more as needed"
-    },
-    {
-      "name": "mushrooms, such as trumpet or cremini, tough stems removed",
-      "quantity": "2 pounds",
-      "notes": "halved if larger than 2 inches"
-    },
-    {
-      "name": "Yukon Gold potatoes",
-      "quantity": "1½ pounds",
-      "notes": "scrubbed and chopped into 1-inch pieces"
-    },
-    {
-      "name": "Salt and black pepper",
-      "quantity": "",
-      "notes": "to taste"
-    },
-    {
-      "name": "unsalted butter",
-      "quantity": "1 tablespoon"
-    },
-    {
-      "name": "large yellow or red onion",
-      "quantity": "1",
-      "notes": "chopped"
-    },
-    {
-      "name": "garlic cloves",
-      "quantity": "8",
-      "notes": "smashed and chopped"
-    },
-    {
-      "name": "sweet paprika",
-      "quantity": "2 tablespoons",
-      "notes": "preferably Hungarian"
-    },
-    {
-      "name": "smoked paprika",
-      "quantity": "½ teaspoon"
-    },
-    {
-      "name": "dry white wine",
-      "quantity": "¼ cup"
-    },
-    {
-      "name": "vegetable stock",
-      "quantity": "1 cup"
-    },
-    {
-      "name": "crushed tomatoes",
-      "quantity": "14 ounces"
-    },
-    {
-      "name": "sour cream",
-      "quantity": "1 cup",
-      "notes": "at room temperature"
-    },
-    {
-      "name": "all-purpose flour",
-      "quantity": "3 tablespoons"
-    },
-    {
-      "name": "fresh dill or dried dill",
-      "quantity": "½ cup",
-      "notes": "chopped, or 2 teaspoons dried"
-    },
-    {
-      "name": "fresh parsley",
-      "quantity": "½ cup",
-      "notes": "chopped"
+      "items": [
+        {
+          "name": "vegetable oil",
+          "quantity": "¼ cup",
+          "notes": "plus more as needed"
+        },
+        {
+          "name": "mushrooms, such as trumpet or cremini, tough stems removed",
+          "quantity": "2 pounds",
+          "notes": "halved if larger than 2 inches"
+        },
+        {
+          "name": "Yukon Gold potatoes",
+          "quantity": "1½ pounds",
+          "notes": "scrubbed and chopped into 1-inch pieces"
+        },
+        {
+          "name": "Salt and black pepper",
+          "quantity": "",
+          "notes": "to taste"
+        },
+        {
+          "name": "unsalted butter",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "large yellow or red onion",
+          "quantity": "1",
+          "notes": "chopped"
+        },
+        {
+          "name": "garlic cloves",
+          "quantity": "8",
+          "notes": "smashed and chopped"
+        },
+        {
+          "name": "sweet paprika",
+          "quantity": "2 tablespoons",
+          "notes": "preferably Hungarian"
+        },
+        {
+          "name": "smoked paprika",
+          "quantity": "½ teaspoon"
+        },
+        {
+          "name": "dry white wine",
+          "quantity": "¼ cup"
+        },
+        {
+          "name": "vegetable stock",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "crushed tomatoes",
+          "quantity": "14 ounces"
+        },
+        {
+          "name": "sour cream",
+          "quantity": "1 cup",
+          "notes": "at room temperature"
+        },
+        {
+          "name": "all-purpose flour",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "fresh dill or dried dill",
+          "quantity": "½ cup",
+          "notes": "chopped, or 2 teaspoons dried"
+        },
+        {
+          "name": "fresh parsley",
+          "quantity": "½ cup",
+          "notes": "chopped"
+        }
+      ]
     }
   ],
   "instructions": [

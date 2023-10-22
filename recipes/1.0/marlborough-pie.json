@@ -10,42 +10,46 @@
   },
   "ingredients": [
     {
-      "name": "pie crust",
-      "quantity": "1"
-    },
-    {
-      "name": "butter",
-      "quantity": "6 tablespoons"
-    },
-    {
-      "name": "stewed, pureed apples",
-      "quantity": "3/4 cup",
-      "notes": "Typically requires around 4 apples."
-    },
-    {
-      "name": "juice of 1 lemon",
-      "quantity": ""
-    },
-    {
-      "name": "sherry",
-      "quantity": "3/4 cup"
-    },
-    {
-      "name": "heavy cream",
-      "quantity": "1/2 cup"
-    },
-    {
-      "name": "white sugar",
-      "quantity": "3/4 cup"
-    },
-    {
-      "name": "eggs",
-      "quantity": "4"
-    },
-    {
-      "name": "grated nutmeg",
-      "quantity": "2 teaspoons",
-      "notes": "Or to taste"
+      "items": [
+        {
+          "name": "pie crust",
+          "quantity": "1"
+        },
+        {
+          "name": "butter",
+          "quantity": "6 tablespoons"
+        },
+        {
+          "name": "stewed, pureed apples",
+          "quantity": "3/4 cup",
+          "notes": "Typically requires around 4 apples."
+        },
+        {
+          "name": "juice of 1 lemon",
+          "quantity": ""
+        },
+        {
+          "name": "sherry",
+          "quantity": "3/4 cup"
+        },
+        {
+          "name": "heavy cream",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "white sugar",
+          "quantity": "3/4 cup"
+        },
+        {
+          "name": "eggs",
+          "quantity": "4"
+        },
+        {
+          "name": "grated nutmeg",
+          "quantity": "2 teaspoons",
+          "notes": "Or to taste"
+        }
+      ]
     }
   ],
   "instructions": [

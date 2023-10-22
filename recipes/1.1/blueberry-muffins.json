@@ -2,7 +2,7 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id-2",
   "title": "Blueberry Muffins",
-  "labels": ["breakfast", "dessert", "baking", "snack"],
+  "labels": ["dessert", "baking"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,44 +10,48 @@
   },
   "ingredients": [
     {
-      "name": "sifted all-purpose flour",
-      "quantity": "3½ cups"
-    },
-    {
-      "name": "baking powder",
-      "quantity": "2 tablespoons"
-    },
-    {
-      "name": "sugar",
-      "quantity": "¾ cup"
-    },
-    {
-      "name": "salt",
-      "quantity": "Pinch",
-      "notes": "optional"
-    },
-    {
-      "name": "eggs",
-      "quantity": "5",
-      "notes": "slightly beaten"
-    },
-    {
-      "name": "milk",
-      "quantity": "½ cup"
-    },
-    {
-      "name": "unsalted butter",
-      "quantity": "5 ounces",
-      "notes": "melted and cooled"
-    },
-    {
-      "name": "blueberries",
-      "quantity": "4 or 5 cups",
-      "notes": "fresh or frozen"
-    },
-    {
-      "name": "sugar for topping",
-      "quantity": "Additional"
+      "items": [
+        {
+          "name": "sifted all-purpose flour",
+          "quantity": "3½ cups"
+        },
+        {
+          "name": "baking powder",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "sugar",
+          "quantity": "¾ cup"
+        },
+        {
+          "name": "salt",
+          "quantity": "Pinch",
+          "notes": "optional"
+        },
+        {
+          "name": "eggs",
+          "quantity": "5",
+          "notes": "slightly beaten"
+        },
+        {
+          "name": "milk",
+          "quantity": "½ cup"
+        },
+        {
+          "name": "unsalted butter",
+          "quantity": "5 ounces",
+          "notes": "melted and cooled"
+        },
+        {
+          "name": "blueberries",
+          "quantity": "4 or 5 cups",
+          "notes": "fresh or frozen"
+        },
+        {
+          "name": "sugar for topping",
+          "quantity": "Additional"
+        }
+      ]
     }
   ],
   "instructions": [

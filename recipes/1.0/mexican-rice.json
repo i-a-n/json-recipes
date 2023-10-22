@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "015",
   "title": "Mexican Rice",
-  "labels": ["side dish", "mexican"],
+  "labels": ["side dish"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,32 +10,36 @@
   },
   "ingredients": [
     {
-      "name": "vegetable oil",
-      "quantity": "3 tablespoons"
-    },
-    {
-      "name": "uncooked long-grain rice",
-      "quantity": "1 cup"
-    },
-    {
-      "name": "garlic salt",
-      "quantity": "1 teaspoon"
-    },
-    {
-      "name": "ground cumin",
-      "quantity": "1/2 teaspoon"
-    },
-    {
-      "name": "chopped onion",
-      "quantity": "1/4 cup"
-    },
-    {
-      "name": "chicken broth",
-      "quantity": "2 cups"
-    },
-    {
-      "name": "tomato sauce",
-      "quantity": "1/2 cup"
+      "items": [
+        {
+          "name": "vegetable oil",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "uncooked long-grain rice",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "garlic salt",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "ground cumin",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "chopped onion",
+          "quantity": "1/4 cup"
+        },
+        {
+          "name": "chicken broth",
+          "quantity": "2 cups"
+        },
+        {
+          "name": "tomato sauce",
+          "quantity": "1/2 cup"
+        }
+      ]
     }
   ],
   "instructions": [

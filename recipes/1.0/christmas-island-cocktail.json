@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "017",
   "title": "Christmas Island Cocktail",
-  "labels": ["cocktail", "beverage", "tiki"],
+  "labels": ["cocktail", "beverage"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,30 +10,34 @@
   },
   "ingredients": [
     {
-      "name": "coconut milk",
-      "quantity": "1/2 cup",
-      "notes": "regular or light"
-    },
-    {
-      "name": "pineapple juice",
-      "quantity": "1/2 cup"
-    },
-    {
-      "name": "coconut rum or spiced rum",
-      "quantity": "1/4 cup (2 fluid ounces)"
-    },
-    {
-      "name": "allspice dram",
-      "quantity": "2 tablespoons (1 fluid ounce)"
-    },
-    {
-      "name": "falernum",
-      "quantity": "2 tablespoons (1 fluid ounce)"
-    },
-    {
-      "name": "crushed ice",
-      "quantity": "",
-      "notes": "As needed"
+      "items": [
+        {
+          "name": "coconut milk",
+          "quantity": "1/2 cup",
+          "notes": "regular or light"
+        },
+        {
+          "name": "pineapple juice",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "coconut rum or spiced rum",
+          "quantity": "1/4 cup (2 fluid ounces)"
+        },
+        {
+          "name": "allspice dram",
+          "quantity": "2 tablespoons (1 fluid ounce)"
+        },
+        {
+          "name": "falernum",
+          "quantity": "2 tablespoons (1 fluid ounce)"
+        },
+        {
+          "name": "crushed ice",
+          "quantity": "",
+          "notes": "As needed"
+        }
+      ]
     }
   ],
   "instructions": [

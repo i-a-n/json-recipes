@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "007",
   "title": "Cashew Queso",
-  "labels": ["snack", "vegan", "mexican"],
+  "labels": ["side dish", "vegan"],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -10,36 +10,40 @@
   },
   "ingredients": [
     {
-      "name": "hot water",
-      "quantity": "1 cup"
-    },
-    {
-      "name": "raw cashews",
-      "quantity": "1 cup"
-    },
-    {
-      "name": "garlic",
-      "quantity": "1 clove"
-    },
-    {
-      "name": "nutritional yeast",
-      "quantity": "2 tablespoons"
-    },
-    {
-      "name": "ground cumin",
-      "quantity": "1/2 teaspoon"
-    },
-    {
-      "name": "chili powder",
-      "quantity": "1 teaspoon"
-    },
-    {
-      "name": "salt",
-      "quantity": "1/2 teaspoon"
-    },
-    {
-      "name": "salsa",
-      "quantity": "1 tablespoon"
+      "items": [
+        {
+          "name": "hot water",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "raw cashews",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "garlic",
+          "quantity": "1 clove"
+        },
+        {
+          "name": "nutritional yeast",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "ground cumin",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "chili powder",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "salt",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "salsa",
+          "quantity": "1 tablespoon"
+        }
+      ]
     }
   ],
   "instructions": [

@@ -1,7 +1,6 @@
 {
   "name": "json-recipes",
   "main": "distribution/index.js",
-  "type": "module",
   "types": "recipes.d.ts",
   "devDependencies": {
     "bun-types": "latest"
@@ -11,5 +10,8 @@
   },
   "scripts": {
     "build": "bun index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.1.1"
   }
 }
