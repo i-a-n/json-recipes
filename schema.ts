@@ -19,6 +19,7 @@ interface Creator {
 }
 
 interface Recipe {
+  description?: string;
   schema_version: string;
   recipe_id: string;
   title: string;

@@ -1,6 +1,7 @@
 {
   "recipe_id": "67890",
   "title": "Thanksgiving Tofurkey",
+  "description": "An ian Thanksgiving classic, adapted from an anonymous online recipe a million years ago",
   "labels": ["vegan", "main"],
   "schema_version": "1.0",
   "creator": {

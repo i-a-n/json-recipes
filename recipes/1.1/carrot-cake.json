@@ -2,6 +2,7 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Carrot Cake",
+  "description": "From Magnolia Bakery",
   "labels": ["dessert", "baking"],
   "creator": {
     "user_id": "2",

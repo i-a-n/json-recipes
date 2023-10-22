@@ -2,6 +2,7 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Cranberry Upside Down Cake",
+  "description": "From Alice Waters",
   "labels": ["dessert", "baking"],
   "creator": {
     "user_id": "2",

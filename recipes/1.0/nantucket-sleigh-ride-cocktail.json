@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "018",
   "title": "Nantucket Sleigh Ride Cocktail",
+  "description": "Quick & easy holiday tiki drink",
   "labels": ["cocktail", "beverage"],
   "creator": {
     "user_id": "00145",

@@ -2,6 +2,7 @@
   "recipe_id": "1234332235",
   "schema_version": "1.0",
   "title": "Pizza Dough",
+  "description": "Basic, high-gluten foundation for homemade pies",
   "labels": ["main", "baking"],
   "creator": {
     "user_id": "3",

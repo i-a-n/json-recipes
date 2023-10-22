@@ -1,6 +1,7 @@
 {
   "recipe_id": "67890",
   "title": "Old-Fashioned Pancakes",
+  "description": "Diner-style. Adapted from Food Wishes.",
   "labels": ["main"],
   "schema_version": "1.0",
   "creator": {

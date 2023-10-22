@@ -2,6 +2,7 @@
   "recipe_id": "12345",
   "schema_version": "1.0",
   "title": "Homemade Butter Tortillas",
+  "description": "Grandma's recipe, except with butter instead of shortening",
   "labels": ["side dish"],
   "creator": {
     "user_id": "3",

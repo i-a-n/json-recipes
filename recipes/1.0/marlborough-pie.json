@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "004",
   "title": "Marlborough Pie",
+  "description": "Traditional 19th-century apple pie with a rich, custard-like filling. From Gastro Obscura.",
   "labels": ["dessert", "baking"],
   "creator": {
     "user_id": "2",

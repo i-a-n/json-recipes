@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "019",
   "title": "Goombay Smash",
+  "description": "The Bahamas' favorite tiki drink. Recipe from Bon Appétit.",
   "labels": ["cocktail", "beverage"],
   "creator": {
     "user_id": "00146",

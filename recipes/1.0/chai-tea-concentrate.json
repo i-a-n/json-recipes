@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "020",
   "title": "Chai Tea Concentrate",
+  "description": "Adapted from The Modern Proper",
   "labels": ["beverage", "vegan"],
   "creator": {
     "user_id": "2",

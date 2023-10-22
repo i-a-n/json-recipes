@@ -2,7 +2,8 @@
   "schema_version": "1.0",
   "recipe_id": "008",
   "title": "Butternut Squash Soup",
-  "labels": ["main"],
+  "description": "Creamy, comforting soup with coconut milk. Originally from The Modern Proper.",
+  "labels": ["main", "vegan"],
   "creator": {
     "user_id": "2",
     "username": "alex",

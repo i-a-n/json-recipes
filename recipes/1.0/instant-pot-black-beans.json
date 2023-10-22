@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "005",
   "title": "Instant Pot Black Beans",
+  "description": "Quick, no-soak black beans",
   "labels": ["vegan", "side dish"],
   "creator": {
     "user_id": "2",

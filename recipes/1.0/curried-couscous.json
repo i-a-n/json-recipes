@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "008",
   "title": "Curried Couscous",
+  "description": "From Mendocino Farms",
   "labels": ["vegan", "side dish"],
   "creator": {
     "user_id": "2",

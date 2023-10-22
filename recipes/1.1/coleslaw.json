@@ -2,6 +2,7 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Coleslaw",
+  "description": "From Alice Waters",
   "labels": ["side dish"],
   "creator": {
     "user_id": "2",

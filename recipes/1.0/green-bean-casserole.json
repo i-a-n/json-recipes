@@ -2,6 +2,7 @@
   "schema_version": "1.0",
   "recipe_id": "022",
   "title": "Green Bean Casserole",
+  "description": "The traditional casserole with crispy onions. From Smitten Kitchen.",
   "labels": ["side dish"],
   "creator": {
     "user_id": "2",

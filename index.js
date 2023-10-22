@@ -6,6 +6,7 @@ async function readRecipes() {
   const recipeDirectories = [
     path.join(__dirname, "recipes/1.0"),
     path.join(__dirname, "recipes/1.1"),
+    path.join(__dirname, "recipes/1.3"),
     // Add as many directories as you need
   ];
 
