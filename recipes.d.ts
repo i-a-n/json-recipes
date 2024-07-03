@@ -21,6 +21,7 @@ declare module "json-recipes" {
     description?: string;
     schema_version: string;
     recipe_id: string;
+    slug: string;
     title: string;
     creator: Creator;
     ingredients: IngredientGroup[];

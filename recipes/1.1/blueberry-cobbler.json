@@ -3,7 +3,10 @@
   "recipe_id": "unique-recipe-id-1",
   "title": "Blueberry Cobbler",
   "description": "By Chez Panisse",
-  "labels": ["dessert", "baking"],
+  "labels": [
+    "dessert",
+    "baking"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -65,5 +68,6 @@
     "Step 3: Put the blueberries in a 1½-quart gratin or baking dish. Make patties out of the dough, 2 to 2½ inches in diameter and ½-inch thick. Arrange them over the top of the berries. Bake until the topping is brown and the juices bubble thickly around it, about 35 to 40 minutes.",
     "Step 4: Let cool slightly. Serve warm, with cream to pour on top, if desired."
   ],
-  "yield": "1 pie"
+  "yield": "1 pie",
+  "slug": "blueberry-cobbler"
 }

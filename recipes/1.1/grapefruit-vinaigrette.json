@@ -2,7 +2,9 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Grapefruit Vinaigrette",
-  "labels": ["side dish"],
+  "labels": [
+    "side dish"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -43,5 +45,6 @@
     "Squeeze ½ of the grapefruit. Measure out ⅓ cup of juice and place it in a small saucepan. Add the honey or agave and bring to a boil over medium-high heat. Reduce to ¼ cup and remove from the heat. Whisk in salt, vinegar, and the oils.",
     "Cut away the peel and pith from the remaining grapefruit half. Cut the sections away from the membranes that divide them and chop fine. Stir into the vinaigrette."
   ],
-  "yield": "2 or more servings"
+  "yield": "2 or more servings",
+  "slug": "grapefruit-vinaigrette"
 }

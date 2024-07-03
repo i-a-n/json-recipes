@@ -3,7 +3,10 @@
   "recipe_id": "unique-recipe-id-3",
   "title": "Nutter Butters",
   "description": "Peanut butter cookies from Bouchon Bakery",
-  "labels": ["dessert", "baking"],
+  "labels": [
+    "dessert",
+    "baking"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -87,5 +90,6 @@
     "Step 3: Using an electric mixer, cream together the butter, peanut butter, and confectioners' sugar until very smooth.",
     "Step 4: To assemble cookies, spread a thin layer (about ⅛ inch) on the underside of a cookie. Sandwich with another cookie, being careful not to break them. Repeat."
   ],
-  "yield": "12 cookies"
+  "yield": "12 cookies",
+  "slug": "nutter-butters"
 }

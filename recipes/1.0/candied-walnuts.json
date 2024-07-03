@@ -3,7 +3,9 @@
   "recipe_id": "009",
   "title": "Candied Walnuts",
   "description": "Originally from Gimme Some Oven.",
-  "labels": ["side dish"],
+  "labels": [
+    "side dish"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -49,5 +51,6 @@
     "In a large mixing bowl, whisk together egg white and vanilla until combined. Add the walnuts and toss until they are evenly coated with the egg white mixture. Add the brown sugar mixture and toss until the walnuts are evenly coated.",
     "Spread the walnuts out in an even layer on the baking sheet. Bake for 20 minutes. Remove baking sheet from the oven, and give the walnuts a brief stir. Return to the oven and bake for 5 more minutes. Remove and transfer to a wire rack to cool for 10 minutes."
   ],
-  "yield": "4 cups"
+  "yield": "4 cups",
+  "slug": "candied-walnuts"
 }

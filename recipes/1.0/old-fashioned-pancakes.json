@@ -2,7 +2,9 @@
   "recipe_id": "67890",
   "title": "Old-Fashioned Pancakes",
   "description": "Diner-style. Adapted from Food Wishes.",
-  "labels": ["main"],
+  "labels": [
+    "main"
+  ],
   "schema_version": "1.0",
   "creator": {
     "user_id": "3",
@@ -50,5 +52,6 @@
     "Cook in a ceramic non-stick pan, with no oil/spray, set over medium/medium-low heat. About 400 degrees F works.",
     "Add some water to the batter if it thickens after standing."
   ],
-  "yield": "10 pancakes"
+  "yield": "10 pancakes",
+  "slug": "old-fashioned-pancakes"
 }

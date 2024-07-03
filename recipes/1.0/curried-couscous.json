@@ -3,7 +3,10 @@
   "recipe_id": "008",
   "title": "Curried Couscous",
   "description": "From Mendocino Farms",
-  "labels": ["vegan", "side dish"],
+  "labels": [
+    "vegan",
+    "side dish"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -81,5 +84,6 @@
     "Put diced carrots on the same sheet tray and, using spatula, toss the carrots with the leftover spices and oil. Roast carrots until brown around the edges but still crunchy, about 8 minutes. (If you find that the spices and oil got too burnt when roasting the cauliflower, just toss the carrots in the same proportion of new spices, salt, sugar, and oil.) Add to the pasta.",
     "Mix in vegenaise, cilantro, lime juice to the pasta, cauliflower and carrot mixture. Adjust seasoning to desired consistency, flavor, and spice level."
   ],
-  "yield": "6 servings"
+  "yield": "6 servings",
+  "slug": "curried-couscous"
 }

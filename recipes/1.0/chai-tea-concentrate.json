@@ -3,7 +3,10 @@
   "recipe_id": "020",
   "title": "Chai Tea Concentrate",
   "description": "Adapted from The Modern Proper",
-  "labels": ["beverage", "vegan"],
+  "labels": [
+    "beverage",
+    "vegan"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -73,5 +76,6 @@
     "Mix ½ cup concentrate with ½ cup any type of milk. Heat on the stovetop or microwave.",
     "Keep refrigerated. Enjoy for up to 2 weeks."
   ],
-  "yield": "12 servings"
+  "yield": "12 servings",
+  "slug": "chai-tea-concentrate"
 }

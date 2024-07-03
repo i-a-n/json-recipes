@@ -3,7 +3,10 @@
   "recipe_id": "017",
   "title": "Christmas Island Cocktail",
   "description": "Holiday tiki drink",
-  "labels": ["cocktail", "beverage"],
+  "labels": [
+    "cocktail",
+    "beverage"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -47,5 +50,6 @@
     "Divide the cocktail equally between the two glasses.",
     "Garnish with your choice of fruits, spices, swizzle sticks, tiny umbrellas, and what have you. In my opinion, more is never too much!"
   ],
-  "yield": "2 drinks"
+  "yield": "2 drinks",
+  "slug": "christmas-island-cocktail"
 }

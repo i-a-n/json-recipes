@@ -3,7 +3,10 @@
   "recipe_id": "002",
   "title": "Lemon Meringue Pie",
   "description": "From Chez Panisse",
-  "labels": ["dessert", "baking"],
+  "labels": [
+    "dessert",
+    "baking"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -94,5 +97,6 @@
     "Make the meringue. Beat the egg whites until frothy, add the cream of tartar, and continue beating until rounded peaks form. Beat in sugar and vanilla. Spread the meringue over the filling, making sure it meets the edges of the crust to make a seal. Swirl in a design with a knife or spatula and bake for about 10 minutes, or until the meringue is lightly browned.",
     "Allow to cool completely, from one to two hours, but do not refrigerate."
   ],
-  "yield": "1 pie"
+  "yield": "1 pie",
+  "slug": "lemon-meringue-pie"
 }

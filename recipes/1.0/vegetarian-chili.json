@@ -2,7 +2,9 @@
   "schema_version": "1.0",
   "recipe_id": "013",
   "title": "Vegetarian Chili",
-  "labels": ["main"],
+  "labels": [
+    "main"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -93,5 +95,6 @@
     "Remove the chili from the heat and discard the bay leaf. For the best texture and flavor, transfer 1 ½ cups of the chili to a blender, making sure to get some of the liquid portion. Securely fasten the lid and blend until smooth (watch out for hot steam), then pour the blended mixture back into the pot. (Or, you can blend the chili briefly with an immersion blender, or mash the chili with a potato masher until it reaches a thicker, more chili-like consistency.)",
     "Add the chopped cilantro, stir to combine, and then mix in the vinegar, to taste. Add salt to taste, too—I added ¼ teaspoon more at this point. Divide the mixture into individual bowls and serve with garnishes of your choice. This chili will keep well in the refrigerator for about 4 days or you can freeze it for longer-term storage."
   ],
-  "yield": "6 servings"
+  "yield": "6 servings",
+  "slug": "vegetarian-chili"
 }

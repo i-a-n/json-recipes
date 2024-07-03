@@ -3,7 +3,10 @@
   "recipe_id": "unique-recipe-id-2",
   "title": "Blueberry Muffins",
   "description": "Classic recipe from the Ritz Carlton",
-  "labels": ["dessert", "baking"],
+  "labels": [
+    "dessert",
+    "baking"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -61,5 +64,6 @@
     "Step 3: Grease the top of large muffin tins. Insert paper cups and spoon batter to the top of the paper cups. Sprinkle generously with sugar.",
     "Step 4: Reduce heat to 400 degrees, place muffin tins on middle shelf of oven. Bake about 25 minutes, until muffins are golden brown. Remove from muffin tins and cool."
   ],
-  "yield": "12 muffins"
+  "yield": "12 muffins",
+  "slug": "blueberry-muffins"
 }

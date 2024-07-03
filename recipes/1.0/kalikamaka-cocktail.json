@@ -3,7 +3,10 @@
   "recipe_id": "016",
   "title": "Kalikamaka Cocktail",
   "description": "Cinnamon-infused holiday tiki special",
-  "labels": ["cocktail", "beverage"],
+  "labels": [
+    "cocktail",
+    "beverage"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -50,5 +53,6 @@
     "To make the cinnamon syrup, combine 1 cup water with 1 cup sugar, and bring to a boil over medium heat. Reduce heat to medium-low and let simmer for 8-10 minutes until sugar has dissolved, stirring frequently. Let cool. Ditch the cinnamon sticks, strain into a clean glass jar and cover. Store refrigerated for up to two weeks.",
     "To make the cocktail, throw everything in a shaker with ice and shake it up good. Rim a martini glass lightly with cinnamon, and fill the glass with the chilled booze. Garnish with a cinnamon stick and enjoy the holidays!"
   ],
-  "yield": "1 drink"
+  "yield": "1 drink",
+  "slug": "kalikamaka-cocktail"
 }

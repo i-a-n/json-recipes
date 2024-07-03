@@ -3,7 +3,10 @@
   "recipe_id": "unique-recipe-id",
   "title": "Carrot Cake",
   "description": "From Magnolia Bakery",
-  "labels": ["dessert", "baking"],
+  "labels": [
+    "dessert",
+    "baking"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -95,5 +98,6 @@
     "Directions for the frosting: In a large bowl, on the medium speed beat the cream cheese and butter until smooth (about 3 minutes). Add the vanilla and beat well. Gradually add the sugar, 1 cup at a time until smooth and creamy. Cover and refrigerate the frosting for 2-3 hours to thicken before using. Do not keep it in the fridge any longer or it will be too hard to frost.",
     "Directions for the cake: Toast Pecans: Place the chopped pecans on a baking sheet in a 350 degree oven for 15 minutes, or until lightly brown and fragrant. Set aside to cool. Preheat Oven 325 degrees. Grease and lightly flour two 9×2 inch round cake pans, then line the bottoms with wax paper. (I didn’t use wax paper and it worked fine) In a small bowl, sift together the flour, baking powder, cinnamon, and salt. Set aside. In a large bowl, on the medium speed of an electric mixer, beat the oil and sugar together. Add the eggs, one at a time, and beat until light & thick (about 2 minutes). Add the vanilla and beat well. Gradually add the dry ingredients, beating until well incorporated. Stir in the carrots, pineapple (with its juice), 1 cup of pecans, and coconut. Divide the batter between the prepared pans and bake for 40-50 minutes, or until a cake tester inserted in the center of the cake comes out clean. Let the layers cool in the pan for 1 hour. Remove from the pans and cool completely on a wire rack. Frost with cream cheese frosting."
   ],
-  "yield": "1 cake"
+  "yield": "1 cake",
+  "slug": "carrot-cake"
 }

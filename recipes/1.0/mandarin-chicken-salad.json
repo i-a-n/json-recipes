@@ -3,7 +3,9 @@
   "recipe_id": "009",
   "title": "Mandarin Chicken Salad",
   "description": "Formerly known as Chinese Chicken Salad",
-  "labels": ["main"],
+  "labels": [
+    "main"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -84,5 +86,6 @@
     "Make dressing: In a small bowl, whisk together vinegar, honey, sesame oil, hoisin sauce, soy sauce, ginger, and garlic. Slowly drizzle in vegetable oil, whisking constantly until emulsified.",
     "Before serving, drizzle dressing over salad and toss to combine."
   ],
-  "yield": "8 servings"
+  "yield": "8 servings",
+  "slug": "mandarin-chicken-salad"
 }

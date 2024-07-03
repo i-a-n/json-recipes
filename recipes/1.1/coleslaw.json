@@ -3,7 +3,9 @@
   "recipe_id": "unique-recipe-id",
   "title": "Coleslaw",
   "description": "From Alice Waters",
-  "labels": ["side dish"],
+  "labels": [
+    "side dish"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -66,5 +68,6 @@
     "In a very large bowl or pot, combine the prepared cabbage, jalapeño, onion, and cilantro. Toss to mix. Sprinkle with the lime juice, vinegar, oil, salt, pepper, and sugar, and toss to coat.",
     "Let slaw sit for 1 hour, tossing occasionally. Drain; taste and adjust seasonings. Wait another hour. Serve at room temperature."
   ],
-  "yield": "6 or more servings"
+  "yield": "6 or more servings",
+  "slug": "coleslaw"
 }

@@ -2,7 +2,9 @@
   "schema_version": "1.0",
   "recipe_id": "012",
   "title": "Spinach Artichoke Lasagna",
-  "labels": ["main"],
+  "labels": [
+    "main"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -68,5 +70,6 @@
     "Wrap the lasagna with a layer of parchment paper over the top (or cover tightly with aluminum foil, but don’t let the foil touch the cheese). Bake, covered, for 18 minutes, then remove the cover, rotate the pan by 180 degrees and continue cooking for about 12 more minutes, until the top is turning spotty brown.",
     "Remove from oven and let the lasagna cool for 15 minutes before sprinkling with chopped basil and slicing."
   ],
-  "yield": "8 servings"
+  "yield": "8 servings",
+  "slug": "spinach-artichoke-lasagna"
 }

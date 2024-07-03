@@ -2,7 +2,9 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Baked Farro with Lentils",
-  "labels": ["main"],
+  "labels": [
+    "main"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -70,5 +72,6 @@
     "Gently pour the tomato sauce over the lentils and farro and stir to combine. Bake, stirring halfway through, until the lentils and farro are tender, 40 to 50 minutes. If at any point the mixture looks dry, add ¼ cup water. Meanwhile, cut the feta into ¼-inch slices and break each piece in half.",
     "Remove the dish from the oven and turn on the broil setting. Stir the lentils and farro once more, discard the herb sprigs (if using), then top with the slices of feta. Drizzle with olive oil and broil until the feta is molten and charred in spots, 6 to 8 minutes. (Depending on your broiler, you may need to rotate the pan after 2 or 3 minutes, for even cooking.)"
   ],
-  "yield": "4+ servings"
+  "yield": "4+ servings",
+  "slug": "baked-farro-with-lentils"
 }

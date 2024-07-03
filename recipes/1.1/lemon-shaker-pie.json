@@ -3,7 +3,10 @@
   "recipe_id": "unique-recipe-id",
   "title": "Lemon Shaker Pie",
   "description": "From Alice Waters",
-  "labels": ["dessert", "baking"],
+  "labels": [
+    "dessert",
+    "baking"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -71,5 +74,6 @@
     "Preheat the oven to 425 degrees. Unwrap a disk of dough, place between two sheets of plastic wrap, and roll into a 9-inch circle, ⅛-inch thick. Trim the excess dough. Lay it on a cookie sheet, cover, and refrigerate. Roll the second disk into an 11-inch circle, ⅛-inch thick. Trim the excess dough. Gently place the larger circle in a 9-inch tart pan, letting the excess dough rise up the sides (do not trim). Cover and refrigerate until needed.",
     "Using your hands, mix the eggs, flour, and butter into the lemon-sugar mixture, squeezing the lemons as you mix. Pour the mixture into the dough-lined tart pan to just below the pan’s rim. Using the point of a paring knife, carve 4 to 6 holes in the crust of the small dough circle. Lay it on top of the filling. Roughly fold the edges of the bottom crust over the top circle. Brush with milk. Bake for 30 minutes, then reduce the heat to 350 degrees and bake for 20 minutes more. Cool completely before serving."
   ],
-  "yield": "One 9-inch pie"
+  "yield": "One 9-inch pie",
+  "slug": "lemon-shaker-pie"
 }

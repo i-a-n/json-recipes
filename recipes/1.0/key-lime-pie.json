@@ -3,7 +3,10 @@
   "recipe_id": "001",
   "title": "Key-Lime Pie",
   "description": "The classic lime pie, from Nicole Rucker",
-  "labels": ["dessert", "baking"],
+  "labels": [
+    "dessert",
+    "baking"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -59,5 +62,6 @@
     "Bake until the filling is set around the edges and the center wobbles slightly when touched, about 15 minutes. Transfer to a wire rack and let cool completely, at least 2 hours.",
     "In a large bowl, whisk the heavy cream and sour cream with an electric mixer fitted with the whisk attachment, or by hand, until soft peaks form; do not overbeat. Pile the cream on top of the pie and swirl and swoosh with a spoon or rubber spatula. Refrigerate the pie for at least 3 hours before serving."
   ],
-  "yield": "1 pie (9-inch)"
+  "yield": "1 pie (9-inch)",
+  "slug": "key-lime-pie"
 }

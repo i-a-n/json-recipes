@@ -2,7 +2,9 @@
   "schema_version": "1.0",
   "recipe_id": "021",
   "title": "Three-Cup Chicken",
-  "labels": ["main"],
+  "labels": [
+    "main"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -64,5 +66,6 @@
     "Add sugar and stir to combine, then add the rice wine and soy sauce, and bring just to a boil. Lower the heat, then simmer until the sauce has reduced and started to thicken, approximately 15 minutes.",
     "Turn off the heat, add the basil, and stir to combine. Serve with white rice."
   ],
-  "yield": "4-6 servings"
+  "yield": "4-6 servings",
+  "slug": "three-cup-chicken"
 }

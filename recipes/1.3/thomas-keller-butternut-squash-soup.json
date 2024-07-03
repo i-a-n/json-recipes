@@ -12,21 +12,56 @@
     {
       "groupName": "Main Ingredients",
       "items": [
-        { "name": "butternut squash", "quantity": "1 (3 to 3½ pounds)" },
-        { "name": "canola oil", "quantity": "2 tablespoons" },
-        { "name": "Kosher salt", "quantity": "to taste" },
+        {
+          "name": "butternut squash",
+          "quantity": "1 (3 to 3½ pounds)"
+        },
+        {
+          "name": "canola oil",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "Kosher salt",
+          "quantity": "to taste"
+        },
         {
           "name": "black pepper",
           "quantity": "to taste",
           "notes": "freshly ground"
         },
-        { "name": "sage", "quantity": "2 sprigs" },
-        { "name": "leeks", "quantity": "1 cup", "notes": "thinly sliced" },
-        { "name": "carrots", "quantity": "½ cup", "notes": "thinly sliced" },
-        { "name": "shallots", "quantity": "½ cup", "notes": "thinly sliced" },
-        { "name": "onions", "quantity": "½ cup", "notes": "thinly sliced" },
-        { "name": "garlic cloves", "quantity": "6", "notes": "smashed" },
-        { "name": "honey", "quantity": "2 tablespoons" },
+        {
+          "name": "sage",
+          "quantity": "2 sprigs"
+        },
+        {
+          "name": "leeks",
+          "quantity": "1 cup",
+          "notes": "thinly sliced"
+        },
+        {
+          "name": "carrots",
+          "quantity": "½ cup",
+          "notes": "thinly sliced"
+        },
+        {
+          "name": "shallots",
+          "quantity": "½ cup",
+          "notes": "thinly sliced"
+        },
+        {
+          "name": "onions",
+          "quantity": "½ cup",
+          "notes": "thinly sliced"
+        },
+        {
+          "name": "garlic cloves",
+          "quantity": "6",
+          "notes": "smashed"
+        },
+        {
+          "name": "honey",
+          "quantity": "2 tablespoons"
+        },
         {
           "name": "vegetable stock",
           "quantity": "6 cups",
@@ -42,11 +77,28 @@
     {
       "groupName": "Garnish",
       "items": [
-        { "name": "crème fraîche", "quantity": "¼ cup" },
-        { "name": "nutmeg", "quantity": "to taste", "notes": "freshly grated" },
-        { "name": "unsalted butter", "quantity": "4 tablespoons" },
-        { "name": "chives", "quantity": "1 tablespoon", "notes": "minced" },
-        { "name": "Extra-virgin olive oil", "quantity": "to taste" }
+        {
+          "name": "crème fraîche",
+          "quantity": "¼ cup"
+        },
+        {
+          "name": "nutmeg",
+          "quantity": "to taste",
+          "notes": "freshly grated"
+        },
+        {
+          "name": "unsalted butter",
+          "quantity": "4 tablespoons"
+        },
+        {
+          "name": "chives",
+          "quantity": "1 tablespoon",
+          "notes": "minced"
+        },
+        {
+          "name": "Extra-virgin olive oil",
+          "quantity": "to taste"
+        }
       ]
     }
   ],
@@ -59,6 +111,9 @@
     "Gently reheat the soup until just hot. If it is too thick, add a little more vegetable stock. Heat a medium skillet over high heat. When it is very hot, add the butter and rotate the skillet over the heat as necessary to brown the butter evenly, scraping up any bits that settle in the bottom. As soon as the butter is a hazelnut brown, pour it into the pot of soup -- keep a safe distance, it may sputter -- then stir.",
     "Ladle the soup into six serving bowls. Top each with a dollop of crème fraîche. Grind some black pepper over the top and sprinkle on the chives. Drizzle a little olive oil over the top."
   ],
-  "labels": ["main"],
-  "yield": "6 servings"
+  "labels": [
+    "main"
+  ],
+  "yield": "6 servings",
+  "slug": "thomas-keller-butternut-squash-soup"
 }

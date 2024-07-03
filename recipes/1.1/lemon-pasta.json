@@ -2,7 +2,9 @@
   "schema_version": "1.1",
   "recipe_id": "unique-recipe-id",
   "title": "Lemon Pasta",
-  "labels": ["main"],
+  "labels": [
+    "main"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -86,5 +88,6 @@
     "Heat oil in a 12-inch skillet over medium heat. Add garlic cloves and fry until they are golden brown, about 2 minutes. Stir in onions, rosemary, red pepper flakes, and a pinch of salt. Cook, stirring occasionally, until onions are soft, about 10 minutes. Then stir in chickpeas and the cooking liquid, stock, or water. Bring to a simmer and cook gently until most of the liquid has evaporated, about 5 minutes.",
     "Stir in pasta and parsley, and cook until the pasta has finished cooking and is coated in the sauce, 1 to 2 minutes. Quickly toss in cheese, butter, lemon zest, black pepper to taste, and salt if needed. Drizzle with olive oil and shower with additional cheese before serving."
   ],
-  "yield": "4 servings"
+  "yield": "4 servings",
+  "slug": "lemon-pasta"
 }

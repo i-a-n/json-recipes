@@ -2,7 +2,10 @@
   "recipe_id": "67890",
   "title": "Thanksgiving Tofurkey",
   "description": "An ian Thanksgiving classic, adapted from an anonymous online recipe a million years ago",
-  "labels": ["vegan", "main"],
+  "labels": [
+    "vegan",
+    "main"
+  ],
   "schema_version": "1.0",
   "creator": {
     "user_id": "3",
@@ -74,5 +77,6 @@
     "Combine balsamic, red wine, dijon, and the rest of your herbs and spices into a marinade. Brush/pour maybe half of it over the tofurkey, then place it in the oven.",
     "Add the remaining marindate, basting occassionally, for the next two hours, or longer. If the tofurkey browns too quickly, cover with aluminum foil to ensure it's thoroughly heated through."
   ],
-  "yield": "12 servings"
+  "yield": "12 servings",
+  "slug": "tofurkey"
 }

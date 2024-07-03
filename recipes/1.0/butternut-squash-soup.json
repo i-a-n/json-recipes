@@ -3,7 +3,10 @@
   "recipe_id": "008",
   "title": "Butternut Squash Soup",
   "description": "Creamy, comforting soup with coconut milk. Originally from The Modern Proper.",
-  "labels": ["main", "vegan"],
+  "labels": [
+    "main",
+    "vegan"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -56,5 +59,6 @@
     "Using an immersion blender, blend the soup directly in the pot until completely smooth, about 2 minutes.",
     "Add the coconut milk and stir to combine. To serve, ladle into a bowl and top with a drizzle of coconut milk and freshly cracked pepper."
   ],
-  "yield": "8 servings"
+  "yield": "8 servings",
+  "slug": "butternut-squash-soup"
 }

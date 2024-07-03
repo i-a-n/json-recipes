@@ -3,7 +3,9 @@
   "schema_version": "1.0",
   "title": "Homemade Butter Tortillas",
   "description": "Grandma's recipe, except with butter instead of shortening",
-  "labels": ["side dish"],
+  "labels": [
+    "side dish"
+  ],
   "creator": {
     "user_id": "3",
     "username": "ian",
@@ -43,5 +45,6 @@
     "Use flour and a rolling pin to roll each dough ball into a circle.",
     "Cook each tortilla on a pan or comal over medium heat for about 2 minutes per side or until they are brown and bubbly."
   ],
-  "yield": "12 tortillas"
+  "yield": "12 tortillas",
+  "slug": "butter-tortillas"
 }

@@ -3,7 +3,9 @@
   "recipe_id": "022",
   "title": "Green Bean Casserole",
   "description": "The traditional casserole with crispy onions. From Smitten Kitchen.",
-  "labels": ["side dish"],
+  "labels": [
+    "side dish"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -80,5 +82,6 @@
     "Make the mushroom sauce: Over medium-high heat, melt butter in the bottom of a 12-inch cast iron skillet. Add the mushrooms, salt and pepper and saute them until they start releasing their liquid, anywhere from 3 to 5 minutes, depending on how they were chopped. Add the garlic and saute one minute more. Add the flour and stir it until it fully coats the mushrooms. Add the broth, 1/4 cup at a time, stirring the whole time. Simmer mixture for 1 minute, then add cream and bring back to a simmer, cooking until the sauce thickens a bit, about 5 to 6 minutes, stirring frequently.",
     "Assemble and bake: Add cooked green beans to sauce and stir until they are coated. Sprinkle crispy onions over the top. Bake for 15 minutes, or until sauce is bubbling and onions are a shade darker."
   ],
-  "yield": "6 - 12 servings"
+  "yield": "6 - 12 servings",
+  "slug": "green-bean-casserole"
 }

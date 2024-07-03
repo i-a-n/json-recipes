@@ -3,7 +3,10 @@
   "recipe_id": "005",
   "title": "Instant Pot Black Beans",
   "description": "Quick, no-soak black beans",
-  "labels": ["vegan", "side dish"],
+  "labels": [
+    "vegan",
+    "side dish"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -68,5 +71,6 @@
     "When the timer goes off, allow the steam to release naturally for 20 additional minutes. Remove the lid. Remove the bay leaves and discard them.",
     "Enjoy warm or let cool completely and store in individual containers."
   ],
-  "yield": "6 cups"
+  "yield": "6 cups",
+  "slug": "instant-pot-black-beans"
 }

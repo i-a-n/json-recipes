@@ -1,0 +1,37 @@
+{
+  "description": "From The Source",
+  "schema_version": "1.3",
+  "recipe_id": "00323234",
+  "title": "Lemon Herb Dressing",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "groupName": "Dressing Ingredients",
+      "items": [
+        { "name": "fresh lemon juice", "quantity": "3 tablespoons" },
+        { "name": "red wine vinegar", "quantity": "1 tablespoon" },
+        { "name": "dry mustard", "quantity": "½ teaspoon" },
+        { "name": "lemon-pepper seasoning", "quantity": "¾ teaspoon" },
+        { "name": "dry Italian herbs", "quantity": "¼ teaspoon" },
+        { "name": "granulated garlic", "quantity": "1/8 teaspoon" },
+        { "name": "Dijon mustard", "quantity": "1 teaspoon" },
+        {
+          "name": "extra-virgin olive oil",
+          "quantity": "¼ cup plus 2 tablespoons"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together the lemon juice, red wine vinegar, dry mustard, lemon-pepper seasoning, dry Italian herbs, granulated garlic, and Dijon mustard until fully combined.",
+    "Slowly drizzle in the olive oil while continuing to whisk, ensuring that the oil is fully incorporated and the dressing is emulsified.",
+    "Taste and adjust seasoning if needed. Use immediately or store in the refrigerator in a sealed container."
+  ],
+  "labels": ["vegan", "side dish"],
+  "yield": "Makes about 1/2 cup",
+  "slug": "the-source-lemon-herb-dressing"
+}

@@ -3,7 +3,10 @@
   "recipe_id": "003",
   "title": "Chocolate Chip Oatmeal Cookies",
   "description": "Originally found on Food Network",
-  "labels": ["dessert", "baking"],
+  "labels": [
+    "dessert",
+    "baking"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -76,5 +79,6 @@
     "Bake for 9 minutes, turning the pan once for even baking. The cookies are done when they are lightly browned on top.",
     "Set the cookie sheets on a rack to cool."
   ],
-  "yield": "3 dozen cookies"
+  "yield": "3 dozen cookies",
+  "slug": "chocolate-chip-oatmeal-cookies"
 }

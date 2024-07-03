@@ -3,7 +3,10 @@
   "recipe_id": "unique-recipe-id",
   "title": "Pink Grapefruit Cake",
   "description": "from Ad Hoc at Home by Thomas Keller",
-  "labels": ["dessert", "baking"],
+  "labels": [
+    "dessert",
+    "baking"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -73,5 +76,6 @@
     "While the cake is baking, make the syrup by simmering the juice and sugar together until the sugar is dissolved. Bring it to a boil, and then reduce to simmer for about 1 minute. As soon as you pull the cake out of the oven, use a skewer to poke holes all over and then pour the syrup over the cake. It will seem like the cake is drowning in syrup, but don't worry because it will all be absorbed as the cake cools.",
     "Let the cake cool before turning it out and glazing it. For the glaze, the recipe calls for 4 tsps grapefruit juice and 3/4 cup powdered sugar; but you may need to mix in more or less sugar until the glaze is the consistency you want."
   ],
-  "yield": "Number of servings not specified"
+  "yield": "Number of servings not specified",
+  "slug": "pink-grapefruit-cake"
 }

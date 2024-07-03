@@ -3,7 +3,10 @@
   "schema_version": "1.0",
   "title": "Pizza Dough",
   "description": "Basic, high-gluten foundation for homemade pies",
-  "labels": ["main", "baking"],
+  "labels": [
+    "main",
+    "baking"
+  ],
   "creator": {
     "user_id": "3",
     "username": "ian",
@@ -47,5 +50,6 @@
     "When the dough is risen, punch it down and divide it into 4 equal pieces. (If not using all of the dough, place leftover pieces each in a sealable freezer bag and freeze; thaw before using). Roll each piece into a ball and place them on a greased baking sheet. Lightly oil the top of each ball and loosely cover with plastic wrap. Set aside until almost doubled in size, 1 to 2 hours.",
     "Lightly flour each ball of dough to keep it from sticking. Gently stretch each ball into a flat disk, working from the center of the dough outward, then stretching the outer crust to widen the disk. If the dough springs back, set it aside to rest on a floured surface and move to the next ball. Continue to stretch until each disk is 10 to 12 inches in diameter."
   ],
-  "yield": "4 pizzas"
+  "yield": "4 pizzas",
+  "slug": "pizza-dough"
 }

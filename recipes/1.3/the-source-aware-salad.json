@@ -1,0 +1,81 @@
+{
+  "description": "From The Source",
+  "schema_version": "1.3",
+  "recipe_id": "00423423",
+  "title": "Aware Salad",
+  "creator": {
+    "user_id": "2",
+    "username": "alex",
+    "email": "alex@union.io"
+  },
+  "ingredients": [
+    {
+      "groupName": "Dressing Ingredients",
+      "items": [
+        { "name": "lemon", "quantity": "1", "notes": "juiced" },
+        {
+          "name": "fresh dill",
+          "quantity": "3 tablespoons",
+          "notes": "finely chopped"
+        },
+        {
+          "name": "fresh chives",
+          "quantity": "3 tablespoons",
+          "notes": "finely chopped"
+        },
+        { "name": "whole-grain mustard", "quantity": "1 tablespoon" },
+        { "name": "white wine vinegar", "quantity": "2 tablespoons" },
+        { "name": "onion powder", "quantity": "1/4 teaspoon" },
+        { "name": "garlic powder", "quantity": "1/4 teaspoon" },
+        { "name": "olive oil", "quantity": "1/4 cup (60 milliliters)" },
+        { "name": "Kosher salt", "quantity": "to taste" },
+        {
+          "name": "black pepper",
+          "quantity": "to taste",
+          "notes": "freshly ground"
+        }
+      ]
+    },
+    {
+      "groupName": "Salad Ingredients",
+      "items": [
+        {
+          "name": "romaine lettuce",
+          "quantity": "1 head",
+          "notes": "or 3 heads little gem lettuce"
+        },
+        { "name": "red cabbage", "quantity": "1/2 head" },
+        { "name": "celery", "quantity": "3 stalks" },
+        { "name": "cherry tomatoes", "quantity": "1 pint (290 grams)" },
+        { "name": "avocado", "quantity": "1" },
+        { "name": "English cucumber", "quantity": "1/2" },
+        { "name": "carrots", "quantity": "4 medium" },
+        { "name": "beets", "quantity": "2 medium" },
+        {
+          "name": "broccoli or alfalfa sprouts",
+          "quantity": "1 cup (90 grams)"
+        },
+        { "name": "roasted sunflower seeds", "quantity": "1/4 cup (35 grams)" },
+        {
+          "name": "pine nuts",
+          "quantity": "1/4 cup (35 grams)",
+          "notes": "toasted"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    "Chop the romaine lettuce to create the base and distribute half in each serving bowl.",
+    "Use a mandoline or box grater to very thinly shave the red cabbage and add to the bowls.",
+    "Thinly slice the celery and distribute evenly around the bowls.",
+    "Halve the cherry tomatoes and group the halves together on top of each salad.",
+    "Slice the avocado and fan the slices on one side of each bowl.",
+    "Slice the cucumber into half-moons and arrange on the lettuce.",
+    "Peel and grate the carrots and beets separately; add to the salad, keeping beet piles separate.",
+    "Place half of the sprouts in the center of each bowl.",
+    "Drizzle generously with the dressing and sprinkle with sunflower seeds and pine nuts evenly between the bowls."
+  ],
+  "labels": ["main"],
+  "yield": "Serves 2",
+  "slug": "the-source-aware-salad"
+}

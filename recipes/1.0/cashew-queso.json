@@ -3,7 +3,10 @@
   "recipe_id": "007",
   "title": "Cashew Queso",
   "description": "A creamy, dairy-free queso made from cashews & nutritional yeast. Adapted from Minimalist Baker.",
-  "labels": ["side dish", "vegan"],
+  "labels": [
+    "side dish",
+    "vegan"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -53,5 +56,6 @@
     "Serve with chips or add to things like tacos, nachos, burritos, and more! Garnish with additional salsa for serving (optional).",
     "Store leftovers covered in the refrigerator up to 5-7 days, or in the freezer up to 1 month. To thaw from frozen, set in refrigerator for 24-48 hours. Reheat in microwave or in a small saucepan over medium-low heat. Add more water as needed if it thickens when reheating."
   ],
-  "yield": "6 servings"
+  "yield": "6 servings",
+  "slug": "cashew-queso"
 }

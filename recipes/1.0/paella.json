@@ -2,7 +2,9 @@
   "recipe_id": "1343445",
   "title": "Vegetarian Paella",
   "description": "Veggie version of a Spanish classic found on the back of a paella pan box",
-  "labels": ["main"],
+  "labels": [
+    "main"
+  ],
   "schema_version": "1.0",
   "creator": {
     "user_id": "3",
@@ -72,5 +74,6 @@
     "When rice sizzles, remove pan from heat and cover with a cloth for 10 minutes before serving.",
     "Serve with lemon wedges and alioli sauce."
   ],
-  "yield": "2 servings"
+  "yield": "2 servings",
+  "slug": "paella"
 }

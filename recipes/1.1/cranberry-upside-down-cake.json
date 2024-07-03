@@ -3,7 +3,10 @@
   "recipe_id": "unique-recipe-id",
   "title": "Cranberry Upside Down Cake",
   "description": "From Alice Waters",
-  "labels": ["dessert", "baking"],
+  "labels": [
+    "dessert",
+    "baking"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -80,5 +83,6 @@
     "Using an electric mixer, cream butter with sugar until pale, light, and fluffy. Add vanilla, and beat in egg yolks one at a time, scraping bowl once or twice. Add flour mixture alternately with milk, ending with dry ingredients. Set batter aside.",
     "Using an electric mixer, whisk egg whites with cream of tartar just until whites are stiff enough to hold a slight peak. Fold whites into batter ⅓ at a time. Spoon batter into prepared pan, and spread it evenly over cranberries. Bake until top is browned and cake pulls away slightly from edges of pan, 25 to 35 minutes. Let cake cool for 15 minutes before turning onto cake plate. Serve with slightly sweetened whipped cream, flavored, if desired, with orange liqueur."
   ],
-  "yield": "One 9-inch round cake"
+  "yield": "One 9-inch round cake",
+  "slug": "cranberry-upside-down-cake"
 }

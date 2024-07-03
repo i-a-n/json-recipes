@@ -3,7 +3,9 @@
   "recipe_id": "unique-recipe-id",
   "title": "Minestrone",
   "description": "Recipe from Alice Waters",
-  "labels": ["main"],
+  "labels": [
+    "main"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -82,5 +84,6 @@
     "Add 3 cups water and bring to a low boil. When boiling, add the leek and green beans. After 5 minutes, add the zucchini and tomatoes. After 15 minutes, add the spinach and beans and cook for 5 more minutes. If the soup is too thick, add water (reserved bean water is good).",
     "Remove the bay leaf and bare thyme sticks and adjust the seasoning, if necessary. Serve in bowls, each garnished with grated Parmesan cheese or pesto."
   ],
-  "yield": "[Number of servings not specified]"
+  "yield": "[Number of servings not specified]",
+  "slug": "minestrone"
 }

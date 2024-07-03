@@ -3,7 +3,10 @@
   "recipe_id": "004",
   "title": "Marlborough Pie",
   "description": "Traditional 19th-century apple pie with a rich, custard-like filling. From Gastro Obscura.",
-  "labels": ["dessert", "baking"],
+  "labels": [
+    "dessert",
+    "baking"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -62,5 +65,6 @@
     "Bake for 15 minutes at 400°F. Reduce the heat to 350°F and bake for another 45 minutes or until a tester comes out clean. Place a baking tray or a sheet of aluminum foil on the bottom rack to catch any spills.",
     "Note: Consider blind baking the crust for a firmer bottom. Line the unfilled crust with foil, weigh it down with coins or dried beans, and bake at 375°F for 10 minutes or until lightly brown."
   ],
-  "yield": "1 pie"
+  "yield": "1 pie",
+  "slug": "marlborough-pie"
 }

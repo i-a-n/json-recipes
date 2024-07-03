@@ -3,7 +3,9 @@
   "recipe_id": "006",
   "title": "Nancy's Chopped Salad",
   "description": "From Mozza",
-  "labels": ["main"],
+  "labels": [
+    "main"
+  ],
   "creator": {
     "user_id": "2",
     "username": "alex",
@@ -99,5 +101,6 @@
     "Gently fold the chickpeas, red onion, provolone, salami, pepperoncini (including seeds and juice) into the dressing, one at a time. Halve the tomatoes lengthwise and season with 1 1/2 teaspoons sea salt. Set aside until ready to serve.",
     "When ready to serve, gently add the tomatoes, lettuce, and radicchio to the salad bowl, along with a couple of generous pinches of oregano, and toss to combine with the dressing. Adjust seasonings to taste, adding any reserved dressing if needed. Serve immediately."
   ],
-  "yield": "6 salad servings"
+  "yield": "6 salad servings",
+  "slug": "nancys-chopped-salad"
 }
